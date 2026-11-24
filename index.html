@@ -4,8 +4,8 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <title>Infinity Gen Icons</title>
-<meta name="description" content="265 free PNG icons, MIT License. Search, preview and download.">
-<link rel="icon" href="icons/infinity.png">
+<meta name="description" content="265 free icons in SVG and PNG, MIT License. Search, preview and download.">
+<link rel="icon" href="svg/infinity.svg" type="image/svg+xml">
 <style>
   :root { --bg:#0b0b12; --card:#15141f; --line:#26243a; --text:#fff; --muted:#a9a6c4; --accent:#8b6cff; }
   * { box-sizing:border-box; }
@@ -36,20 +36,21 @@
 <body>
 <main>
   <h1>Infinity Gen Icons</h1>
-  <p class="sub">265 icons · PNG with transparency · MIT License — free for personal and commercial use. Click an icon to download it.</p>
+  <p class="sub">265 icons · SVG (sharp at any size) and PNG8 with transparency · MIT License — free for personal and commercial use. Pick a format and click an icon to download it.</p>
   <div class="bar">
     <input id="q" type="search" placeholder="Search: home, robot, money, поиск…" autocomplete="off">
     <a class="btn" href="https://github.com/leoerdman/Infinity-Gen-Icons/releases/latest/download/infinity-gen-icons.zip">Download all (ZIP)</a>
     <a class="btn ghost" href="https://github.com/leoerdman/Infinity-Gen-Icons">GitHub</a>
   </div>
   <div class="chips" id="chips"></div>
+  <div class="chips" id="formats" aria-label="Download format"></div>
   <div class="count" id="count"></div>
   <div class="grid" id="grid"></div>
   <footer>Released under the <a href="https://github.com/leoerdman/Infinity-Gen-Icons/blob/main/LICENSE">MIT License</a>. Attribution is appreciated but not required.</footer>
 </main>
 <script>
 const LABELS = { all:"All", ui:"UI", media:"Media", tech:"Tech", social:"Social", business:"Business", symbols:"Symbols" };
-let icons = [], cat = "all";
+let icons = [], cat = "all", fmt = "svg";
 const $ = id => document.getElementById(id);
 function render() {
   const q = $("q").value.trim().toLowerCase();
@@ -58,8 +59,9 @@ function render() {
   $("count").textContent = list.length + " icons";
   $("grid").replaceChildren(...list.map(i => {
     const a = document.createElement("a");
-    a.className = "icon"; a.href = i.file; a.download = i.id + ".png"; a.title = i.ru;
-    const img = document.createElement("img"); img.src = i.file; img.alt = i.name; img.loading = "lazy";
+    const file = fmt === "svg" ? i.svg : i.file;
+    a.className = "icon"; a.href = file; a.download = i.id + "." + fmt; a.title = i.ru;
+    const img = document.createElement("img"); img.src = i.svg; img.alt = i.name; img.loading = "lazy";
     a.append(img, i.id);
     return a;
   }));
@@ -69,7 +71,13 @@ fetch("icons.json").then(r => r.json()).then(m => {
   $("chips").replaceChildren(...["all", ...m.categories].map(c => {
     const b = document.createElement("button");
     b.className = "chip"; b.textContent = LABELS[c] || c; b.setAttribute("aria-pressed", c === cat);
-    b.onclick = () => { cat = c; document.querySelectorAll(".chip").forEach(x => x.setAttribute("aria-pressed", x === b)); render(); };
+    b.onclick = () => { cat = c; $("chips").querySelectorAll(".chip").forEach(x => x.setAttribute("aria-pressed", x === b)); render(); };
+    return b;
+  }));
+  $("formats").replaceChildren(...["svg", "png"].map(f => {
+    const b = document.createElement("button");
+    b.className = "chip"; b.textContent = "Download " + f.toUpperCase(); b.setAttribute("aria-pressed", f === fmt);
+    b.onclick = () => { fmt = f; $("formats").querySelectorAll(".chip").forEach(x => x.setAttribute("aria-pressed", x === b)); render(); };
     return b;
   }));
   render();
