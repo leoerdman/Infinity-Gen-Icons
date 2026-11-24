@@ -1,0 +1,80 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Infinity Gen Icons</title>
+<meta name="description" content="265 free PNG icons, MIT License. Search, preview and download.">
+<link rel="icon" href="icons/infinity.png">
+<style>
+  :root { --bg:#0b0b12; --card:#15141f; --line:#26243a; --text:#fff; --muted:#a9a6c4; --accent:#8b6cff; }
+  * { box-sizing:border-box; }
+  body { margin:0; background:radial-gradient(1200px 600px at 20% 0%,#2a1d5c 0%,var(--bg) 60%) fixed, var(--bg);
+         color:var(--text); font:16px/1.5 -apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,sans-serif; }
+  main { max-width:1200px; margin:0 auto; padding:48px 16px 64px; }
+  h1 { margin:0; font-size:40px; letter-spacing:-.5px; }
+  .sub { margin:8px 0 24px; color:var(--muted); }
+  .bar { display:flex; flex-wrap:wrap; gap:8px; align-items:center; margin-bottom:16px; }
+  input { flex:1 1 240px; padding:12px 16px; border-radius:12px; border:1px solid var(--line);
+          background:var(--card); color:var(--text); font:inherit; outline:none; }
+  input:focus { border-color:var(--accent); }
+  .btn { padding:12px 18px; border-radius:12px; background:var(--accent); color:#fff; text-decoration:none; font-weight:600; white-space:nowrap; }
+  .btn.ghost { background:transparent; border:1px solid var(--line); }
+  .chips { display:flex; flex-wrap:wrap; gap:8px; margin-bottom:24px; }
+  .chip { padding:6px 14px; border-radius:999px; border:1px solid var(--line); background:transparent; color:var(--muted); font:inherit; font-size:14px; cursor:pointer; }
+  .chip[aria-pressed="true"] { background:var(--text); color:var(--bg); border-color:var(--text); }
+  .grid { display:grid; grid-template-columns:repeat(auto-fill,minmax(112px,1fr)); gap:8px; }
+  .icon { display:flex; flex-direction:column; align-items:center; gap:10px; padding:20px 8px 12px; border-radius:14px;
+          background:var(--card); border:1px solid transparent; color:var(--muted); text-decoration:none; font-size:12px; text-align:center; }
+  .icon:hover { border-color:var(--accent); color:var(--text); }
+  .icon img { width:40px; height:40px; object-fit:contain; }
+  .count { color:var(--muted); font-size:14px; margin-bottom:12px; }
+  footer { margin-top:40px; color:var(--muted); font-size:14px; }
+  footer a { color:var(--text); }
+</style>
+</head>
+<body>
+<main>
+  <h1>Infinity Gen Icons</h1>
+  <p class="sub">265 icons · PNG with transparency · MIT License — free for personal and commercial use. Click an icon to download it.</p>
+  <div class="bar">
+    <input id="q" type="search" placeholder="Search: home, robot, money, поиск…" autocomplete="off">
+    <a class="btn" href="https://github.com/leoerdman/Infinity-Gen-Icons/releases/latest/download/infinity-gen-icons.zip">Download all (ZIP)</a>
+    <a class="btn ghost" href="https://github.com/leoerdman/Infinity-Gen-Icons">GitHub</a>
+  </div>
+  <div class="chips" id="chips"></div>
+  <div class="count" id="count"></div>
+  <div class="grid" id="grid"></div>
+  <footer>Released under the <a href="https://github.com/leoerdman/Infinity-Gen-Icons/blob/main/LICENSE">MIT License</a>. Attribution is appreciated but not required.</footer>
+</main>
+<script>
+const LABELS = { all:"All", ui:"UI", media:"Media", tech:"Tech", social:"Social", business:"Business", symbols:"Symbols" };
+let icons = [], cat = "all";
+const $ = id => document.getElementById(id);
+function render() {
+  const q = $("q").value.trim().toLowerCase();
+  const list = icons.filter(i => (cat === "all" || i.category === cat) &&
+    (!q || i.id.includes(q) || i.ru.toLowerCase().includes(q)));
+  $("count").textContent = list.length + " icons";
+  $("grid").replaceChildren(...list.map(i => {
+    const a = document.createElement("a");
+    a.className = "icon"; a.href = i.file; a.download = i.id + ".png"; a.title = i.ru;
+    const img = document.createElement("img"); img.src = i.file; img.alt = i.name; img.loading = "lazy";
+    a.append(img, i.id);
+    return a;
+  }));
+}
+fetch("icons.json").then(r => r.json()).then(m => {
+  icons = m.icons;
+  $("chips").replaceChildren(...["all", ...m.categories].map(c => {
+    const b = document.createElement("button");
+    b.className = "chip"; b.textContent = LABELS[c] || c; b.setAttribute("aria-pressed", c === cat);
+    b.onclick = () => { cat = c; document.querySelectorAll(".chip").forEach(x => x.setAttribute("aria-pressed", x === b)); render(); };
+    return b;
+  }));
+  render();
+});
+$("q").addEventListener("input", render);
+</script>
+</body>
+</html>

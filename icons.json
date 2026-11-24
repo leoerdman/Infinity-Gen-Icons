@@ -1,0 +1,2666 @@
+{
+ "name": "Infinity Gen Icons",
+ "version": "1.0.0",
+ "license": "MIT",
+ "count": 265,
+ "categories": [
+  "ui",
+  "media",
+  "tech",
+  "social",
+  "business",
+  "symbols"
+ ],
+ "icons": [
+  {
+   "id": "home",
+   "file": "icons/home.png",
+   "category": "ui",
+   "name": "Home",
+   "ru": "Дом · главная домой",
+   "width": 248,
+   "height": 256,
+   "sha256": "3d082dfbec6e36123d169eddef166b6cdf85a88b52748cf81252cd0b65970ab2"
+  },
+  {
+   "id": "search",
+   "file": "icons/search.png",
+   "category": "ui",
+   "name": "Search",
+   "ru": "Поиск · лупа найти",
+   "width": 256,
+   "height": 256,
+   "sha256": "5b0929ad6057bab5fa09c6c6294eeb2d81d5690b947c2f42c225a48df1abafc5"
+  },
+  {
+   "id": "plus",
+   "file": "icons/plus.png",
+   "category": "ui",
+   "name": "Plus",
+   "ru": "Плюс · добавить",
+   "width": 256,
+   "height": 256,
+   "sha256": "154f5d9fda86bbd33b8b6813920ca6b65e40cd926183fc1798c105e0cc94a84d"
+  },
+  {
+   "id": "minus",
+   "file": "icons/minus.png",
+   "category": "ui",
+   "name": "Minus",
+   "ru": "Минус · убрать",
+   "width": 2389,
+   "height": 256,
+   "sha256": "2313701002b2095a251decc5da0500e688e8d04f5a14ec7bb62087db3316f2c0"
+  },
+  {
+   "id": "close",
+   "file": "icons/close.png",
+   "category": "ui",
+   "name": "Close",
+   "ru": "Закрыть · крестик отмена",
+   "width": 256,
+   "height": 256,
+   "sha256": "83d54eb63ab684648519ac455f8fadeb21b1c33b44a38d4f53b96fe755a31d36"
+  },
+  {
+   "id": "check",
+   "file": "icons/check.png",
+   "category": "ui",
+   "name": "Check",
+   "ru": "Галочка · готово ок",
+   "width": 361,
+   "height": 256,
+   "sha256": "2a43d26ceeb30f0c7e2b47574ebbc3c233c18dbb70cc82d1015f4037c947a960"
+  },
+  {
+   "id": "check-circle",
+   "file": "icons/check-circle.png",
+   "category": "ui",
+   "name": "Check circle",
+   "ru": "Галочка в круге · готово принято",
+   "width": 256,
+   "height": 256,
+   "sha256": "c686ce7d5317460687ded5572e589a6c5c8392e2fe9dc1d75c2202be2f6c10b6"
+  },
+  {
+   "id": "arrow-right",
+   "file": "icons/arrow-right.png",
+   "category": "ui",
+   "name": "Arrow right",
+   "ru": "Стрелка вправо · дальше далее",
+   "width": 312,
+   "height": 256,
+   "sha256": "bc029ee876e93685f52a15688fc2be7055046099d5f2394b5aef28edc30a7e45"
+  },
+  {
+   "id": "arrow-left",
+   "file": "icons/arrow-left.png",
+   "category": "ui",
+   "name": "Arrow left",
+   "ru": "Стрелка влево · назад",
+   "width": 312,
+   "height": 256,
+   "sha256": "3aba99c4baf6e1e78f16ba78ec9f1e7fe679b0fe78d63fe5a8631a05449a8aa3"
+  },
+  {
+   "id": "arrow-up",
+   "file": "icons/arrow-up.png",
+   "category": "ui",
+   "name": "Arrow up",
+   "ru": "Стрелка вверх · рост вверх",
+   "width": 210,
+   "height": 256,
+   "sha256": "d7a29e96a7e42b1fdb2bc0aa8e03c428c28b4a6739f689908d4c34632f34b1b5"
+  },
+  {
+   "id": "arrow-down",
+   "file": "icons/arrow-down.png",
+   "category": "ui",
+   "name": "Arrow down",
+   "ru": "Стрелка вниз · вниз",
+   "width": 210,
+   "height": 256,
+   "sha256": "3ca26d10245a53cd466d195e46148384a1f528c80bb09067f74291d31612c988"
+  },
+  {
+   "id": "chevron-right",
+   "file": "icons/chevron-right.png",
+   "category": "ui",
+   "name": "Chevron right",
+   "ru": "Шеврон вправо · угол вперёд",
+   "width": 142,
+   "height": 256,
+   "sha256": "3752b61db90c89350234c479b8691c4b27e795c6d51c81c6165eab120975eed1"
+  },
+  {
+   "id": "chevron-down",
+   "file": "icons/chevron-down.png",
+   "category": "ui",
+   "name": "Chevron down",
+   "ru": "Шеврон вниз · угол раскрыть",
+   "width": 462,
+   "height": 256,
+   "sha256": "c19c4d6e4ba40a041cfd12aecd04f262fb9f73634722ebc82973d63f157a9800"
+  },
+  {
+   "id": "menu",
+   "file": "icons/menu.png",
+   "category": "ui",
+   "name": "Menu",
+   "ru": "Меню · список полоски",
+   "width": 388,
+   "height": 256,
+   "sha256": "7748dee12e23ce865ce6c1a7d7eb2e667d97effa8354e6ede7e43df2f03e26e7"
+  },
+  {
+   "id": "more",
+   "file": "icons/more.png",
+   "category": "ui",
+   "name": "More",
+   "ru": "Ещё · три точки",
+   "width": 963,
+   "height": 256,
+   "sha256": "936d2c9b9e59d9a3c371eac26dfa12580ad23d6a2624e406ec86ecc1f793f96e"
+  },
+  {
+   "id": "sliders",
+   "file": "icons/sliders.png",
+   "category": "ui",
+   "name": "Sliders",
+   "ru": "Настройки · ползунки параметры",
+   "width": 280,
+   "height": 256,
+   "sha256": "12cf4830f63ee5376d3e55511afd2a3aef2cbad889b5413272587b82df88d348"
+  },
+  {
+   "id": "gear",
+   "file": "icons/gear.png",
+   "category": "ui",
+   "name": "Gear",
+   "ru": "Шестерёнка · механизм шестеренка",
+   "width": 256,
+   "height": 256,
+   "sha256": "739fb3f8e7c109c4d972825274a6e9d6e0979cad5cd480f16e56890b92eb6240"
+  },
+  {
+   "id": "filter",
+   "file": "icons/filter.png",
+   "category": "ui",
+   "name": "Filter",
+   "ru": "Фильтр · воронка отбор",
+   "width": 263,
+   "height": 256,
+   "sha256": "7245544cc17a966f2202952b8b0cb891bafcd65ae99acd32ddaafc91b411844d"
+  },
+  {
+   "id": "sort",
+   "file": "icons/sort.png",
+   "category": "ui",
+   "name": "Sort",
+   "ru": "Сортировка · порядок",
+   "width": 272,
+   "height": 256,
+   "sha256": "07dfdeac3af95ee679d1af4ee89d87eaa6fc6081f0210be4e7a518091c1d8120"
+  },
+  {
+   "id": "refresh",
+   "file": "icons/refresh.png",
+   "category": "ui",
+   "name": "Refresh",
+   "ru": "Обновить · повтор цикл",
+   "width": 249,
+   "height": 256,
+   "sha256": "e6377f34bbaa9c2711df7696b2bc425fa48cd911260a4f8a4471e04433190197"
+  },
+  {
+   "id": "undo",
+   "file": "icons/undo.png",
+   "category": "ui",
+   "name": "Undo",
+   "ru": "Отменить · назад шаг",
+   "width": 273,
+   "height": 256,
+   "sha256": "dc3d9f10b513aa14a8e0be169ecdc157389599efd4e0c6d1cd5a7036d9fe8296"
+  },
+  {
+   "id": "download",
+   "file": "icons/download.png",
+   "category": "ui",
+   "name": "Download",
+   "ru": "Скачать · загрузить вниз",
+   "width": 229,
+   "height": 256,
+   "sha256": "07b58cf3137d9978c9cdf365092f32a3ca4b2086912959c7116fc95cc57b53f7"
+  },
+  {
+   "id": "upload",
+   "file": "icons/upload.png",
+   "category": "ui",
+   "name": "Upload",
+   "ru": "Загрузить · выгрузить вверх",
+   "width": 222,
+   "height": 256,
+   "sha256": "1bec144abcbd266b68570ee4a51f2b7bb0188f31f4113f6ed70b67bf9678c25a"
+  },
+  {
+   "id": "share",
+   "file": "icons/share.png",
+   "category": "ui",
+   "name": "Share",
+   "ru": "Поделиться · отправить сеть",
+   "width": 248,
+   "height": 256,
+   "sha256": "b469a2b123b6b9e893df8bb70444916379f7aa35c3de37733a0fdf6572edbbbc"
+  },
+  {
+   "id": "link",
+   "file": "icons/link.png",
+   "category": "ui",
+   "name": "Link",
+   "ru": "Ссылка · цепь url",
+   "width": 256,
+   "height": 256,
+   "sha256": "b6efd02da894dfa38d7f53e28a2a88b90998457c76f02d81eefc65e930431015"
+  },
+  {
+   "id": "copy",
+   "file": "icons/copy.png",
+   "category": "ui",
+   "name": "Copy",
+   "ru": "Копировать · дубль",
+   "width": 256,
+   "height": 256,
+   "sha256": "09a4c6f3436ae2b3e86259f9af0b17bf2609952ab65e0b2412ea448fca4b4993"
+  },
+  {
+   "id": "trash",
+   "file": "icons/trash.png",
+   "category": "ui",
+   "name": "Trash",
+   "ru": "Корзина · удалить мусор",
+   "width": 255,
+   "height": 256,
+   "sha256": "eb8411e4ff98d5da450913fdd5feab42c5b37f442ae92365810aa95a819ae383"
+  },
+  {
+   "id": "edit",
+   "file": "icons/edit.png",
+   "category": "ui",
+   "name": "Edit",
+   "ru": "Карандаш · правка редактировать",
+   "width": 256,
+   "height": 256,
+   "sha256": "8b7dc0cc56c4c616d2c9812bf3c18d2eeb7d03c4e5b8c1192d448dd5e16d256b"
+  },
+  {
+   "id": "eye",
+   "file": "icons/eye.png",
+   "category": "ui",
+   "name": "Eye",
+   "ru": "Глаз · просмотры видно",
+   "width": 361,
+   "height": 256,
+   "sha256": "99d5638af17608e7419659a839a32e9bc3649383a7642255564dc8f5f96652a9"
+  },
+  {
+   "id": "eye-off",
+   "file": "icons/eye-off.png",
+   "category": "ui",
+   "name": "Eye off",
+   "ru": "Глаз скрыт · скрыть не видно",
+   "width": 300,
+   "height": 256,
+   "sha256": "09e8f2ef3f802f60cf40e0a1ddad75f43673fad1bfed431b8c1d4bc099a79e01"
+  },
+  {
+   "id": "lock",
+   "file": "icons/lock.png",
+   "category": "ui",
+   "name": "Lock",
+   "ru": "Замок · закрыто пароль",
+   "width": 222,
+   "height": 256,
+   "sha256": "8fe1ec863c1a8c612aad3d88d36965af8c412d412314f8093b312d70d805ddb6"
+  },
+  {
+   "id": "unlock",
+   "file": "icons/unlock.png",
+   "category": "ui",
+   "name": "Unlock",
+   "ru": "Открытый замок · открыто доступ",
+   "width": 222,
+   "height": 256,
+   "sha256": "ad3ebcadd732c084e48cfd8258411cecca717603549aeb89e45ccd34f4b2ba1a"
+  },
+  {
+   "id": "key",
+   "file": "icons/key.png",
+   "category": "ui",
+   "name": "Key",
+   "ru": "Ключ · доступ api ключ",
+   "width": 256,
+   "height": 256,
+   "sha256": "f76f316d7fb7343e14896e5eaaf4184d8940fbdaae222c9b38c42da781981a23"
+  },
+  {
+   "id": "bell",
+   "file": "icons/bell.png",
+   "category": "ui",
+   "name": "Bell",
+   "ru": "Колокольчик · уведомление",
+   "width": 235,
+   "height": 256,
+   "sha256": "f47b033a2bbc245322de331bf2d813f5f593ac7b3552efad68df4db2917e9a60"
+  },
+  {
+   "id": "info",
+   "file": "icons/info.png",
+   "category": "ui",
+   "name": "Info",
+   "ru": "Информация · инфо i",
+   "width": 256,
+   "height": 256,
+   "sha256": "00941233c600afd909b7e758219f219cbe286d63f5e83a927b0fc7ac5e58005c"
+  },
+  {
+   "id": "warning",
+   "file": "icons/warning.png",
+   "category": "ui",
+   "name": "Warning",
+   "ru": "Предупреждение · внимание ошибка",
+   "width": 278,
+   "height": 256,
+   "sha256": "b009c5e046783986754d32c34b99dff315f77fb810dd3e664374afdb3fde0d6b"
+  },
+  {
+   "id": "help",
+   "file": "icons/help.png",
+   "category": "ui",
+   "name": "Help",
+   "ru": "Вопрос · помощь подсказка",
+   "width": 256,
+   "height": 256,
+   "sha256": "f459315db39f765373aaf8d85468fc03aa154be8f4a43a39513b6cffd1804fda"
+  },
+  {
+   "id": "star",
+   "file": "icons/star.png",
+   "category": "ui",
+   "name": "Star",
+   "ru": "Звезда · избранное рейтинг",
+   "width": 268,
+   "height": 256,
+   "sha256": "11e383fbd97b54f2908acf37285007b16e66ef2742dfaf3558e8a5f0079b4776"
+  },
+  {
+   "id": "heart",
+   "file": "icons/heart.png",
+   "category": "ui",
+   "name": "Heart",
+   "ru": "Сердце · лайк любовь",
+   "width": 274,
+   "height": 256,
+   "sha256": "b8e06b4087174daea054a1e79940a45146265b78ca31d032ceb5dbac813d1a11"
+  },
+  {
+   "id": "bookmark",
+   "file": "icons/bookmark.png",
+   "category": "ui",
+   "name": "Bookmark",
+   "ru": "Закладка · сохранить",
+   "width": 166,
+   "height": 256,
+   "sha256": "26f6ca507f537fdf6621483a3bca28fa27c6fc38b210aa432acacd287ec2c830"
+  },
+  {
+   "id": "flag",
+   "file": "icons/flag.png",
+   "category": "ui",
+   "name": "Flag",
+   "ru": "Флаг · метка финиш",
+   "width": 188,
+   "height": 256,
+   "sha256": "92e8f584a5b44f91e44d1db0ea8037d8238a21c626ef95ce8b25bed28d630e2d"
+  },
+  {
+   "id": "pin",
+   "file": "icons/pin.png",
+   "category": "ui",
+   "name": "Pin",
+   "ru": "Метка места · локация карта",
+   "width": 195,
+   "height": 256,
+   "sha256": "a2a352a40d4502afbc77b66192d0d7c0aeab97154b259a8064c6d2ad016b38b5"
+  },
+  {
+   "id": "clock",
+   "file": "icons/clock.png",
+   "category": "ui",
+   "name": "Clock",
+   "ru": "Часы · время таймер",
+   "width": 256,
+   "height": 256,
+   "sha256": "6c018106a728fa0b1873186811254767b7d326adcba5b69b4bff512658511369"
+  },
+  {
+   "id": "calendar",
+   "file": "icons/calendar.png",
+   "category": "ui",
+   "name": "Calendar",
+   "ru": "Календарь · дата план",
+   "width": 247,
+   "height": 256,
+   "sha256": "e5bb323e749907542b7b2e5fad388a16e12cd97798bf62c9fad349ee41ef2006"
+  },
+  {
+   "id": "hourglass",
+   "file": "icons/hourglass.png",
+   "category": "ui",
+   "name": "Hourglass",
+   "ru": "Песочные часы · ожидание",
+   "width": 174,
+   "height": 256,
+   "sha256": "49138e8f85c3028de04bda81d06936c0b7530f982984b02e00ff547db1be7130"
+  },
+  {
+   "id": "bolt",
+   "file": "icons/bolt.png",
+   "category": "ui",
+   "name": "Bolt",
+   "ru": "Молния · быстро энергия",
+   "width": 189,
+   "height": 256,
+   "sha256": "e9663c81d4ca7ddd2153bb2300707f486cf375a2dc59047a67ea2fd470164353"
+  },
+  {
+   "id": "fire",
+   "file": "icons/fire.png",
+   "category": "ui",
+   "name": "Fire",
+   "ru": "Огонь · горячо тренд хит",
+   "width": 167,
+   "height": 256,
+   "sha256": "753c398917d068a6d24b0e1c765db6fe74d6030a40cc3b3767320257b7013743"
+  },
+  {
+   "id": "arrow-up-right",
+   "file": "icons/arrow-up-right.png",
+   "category": "ui",
+   "name": "Arrow up right",
+   "ru": "Стрелка наружу · перейти диагональ",
+   "width": 256,
+   "height": 256,
+   "sha256": "c1e5be0209535a4c90cf6b6dcd5ea7d589908c8ee3708f44834269663f5e8abe"
+  },
+  {
+   "id": "chevron-left",
+   "file": "icons/chevron-left.png",
+   "category": "ui",
+   "name": "Chevron left",
+   "ru": "Шеврон влево · угол назад",
+   "width": 142,
+   "height": 256,
+   "sha256": "8f174b66580ba99d342b5859cabf95cb947c6e3b75cd4f036d3b181309918357"
+  },
+  {
+   "id": "chevron-up",
+   "file": "icons/chevron-up.png",
+   "category": "ui",
+   "name": "Chevron up",
+   "ru": "Шеврон вверх · угол свернуть",
+   "width": 462,
+   "height": 256,
+   "sha256": "884641d4c4590b5c91151ce862b2d4de62271efa8d7349151c8914558ac715f6"
+  },
+  {
+   "id": "external-link",
+   "file": "icons/external-link.png",
+   "category": "ui",
+   "name": "External link",
+   "ru": "Внешняя ссылка · открыть в новой вкладке",
+   "width": 256,
+   "height": 256,
+   "sha256": "64151b8890dcd22625627c0c7b96f1fefd54e9b2a14a3df2f3bf098159a4117e"
+  },
+  {
+   "id": "expand",
+   "file": "icons/expand.png",
+   "category": "ui",
+   "name": "Expand",
+   "ru": "Развернуть · во весь экран",
+   "width": 256,
+   "height": 256,
+   "sha256": "a586a6b9c092f9619d41706b351852dfde4097fdeee8da5b931a041d8879e737"
+  },
+  {
+   "id": "shrink",
+   "file": "icons/shrink.png",
+   "category": "ui",
+   "name": "Shrink",
+   "ru": "Свернуть · уменьшить экран",
+   "width": 256,
+   "height": 256,
+   "sha256": "a9566e91a44041cb1531471b62b8b15b28bc46cfd458e885d0844d2bc6b53207"
+  },
+  {
+   "id": "zoom-in",
+   "file": "icons/zoom-in.png",
+   "category": "ui",
+   "name": "Zoom in",
+   "ru": "Приблизить · увеличить лупа плюс",
+   "width": 256,
+   "height": 256,
+   "sha256": "a195bf4524b63e8bd85e3eba1803e5c92b820a6389bd498b99aa37cb9a0e8831"
+  },
+  {
+   "id": "zoom-out",
+   "file": "icons/zoom-out.png",
+   "category": "ui",
+   "name": "Zoom out",
+   "ru": "Отдалить · уменьшить лупа минус",
+   "width": 256,
+   "height": 256,
+   "sha256": "c8d7187e314b936d226c01df1cef8d5afd7fe2982384c0c833d7e941f452c524"
+  },
+  {
+   "id": "check-double",
+   "file": "icons/check-double.png",
+   "category": "ui",
+   "name": "Check double",
+   "ru": "Две галочки · прочитано доставлено",
+   "width": 444,
+   "height": 256,
+   "sha256": "ece3f1f160cb8c43222705f49d5e107fdfe19f4170233e6921ce85eff308f2eb"
+  },
+  {
+   "id": "grid",
+   "file": "icons/grid.png",
+   "category": "ui",
+   "name": "Grid",
+   "ru": "Сетка · плитки витрина",
+   "width": 256,
+   "height": 256,
+   "sha256": "261bdbf746303b31fb09e7311110011106871d1dd98ff78e7c29e6c5d06e761b"
+  },
+  {
+   "id": "list",
+   "file": "icons/list.png",
+   "category": "ui",
+   "name": "List",
+   "ru": "Список · строки пункты",
+   "width": 296,
+   "height": 256,
+   "sha256": "64d9725f9ebe737bb29de7ea1ffeca7e94db732e3e15309978100f02104eb2ed"
+  },
+  {
+   "id": "power",
+   "file": "icons/power.png",
+   "category": "ui",
+   "name": "Power",
+   "ru": "Питание · включить выключить",
+   "width": 237,
+   "height": 256,
+   "sha256": "b1898a3eb582ea1d514ca02f1324cd12eb39542be2e9e76733493ae9aa8f90ca"
+  },
+  {
+   "id": "toggle-on",
+   "file": "icons/toggle-on.png",
+   "category": "ui",
+   "name": "Toggle on",
+   "ru": "Переключатель включён · тумблер вкл",
+   "width": 454,
+   "height": 256,
+   "sha256": "567c4b1b1704512dec9b5ee4a55cefc281520aeda038c2f815f90930215a739e"
+  },
+  {
+   "id": "toggle-off",
+   "file": "icons/toggle-off.png",
+   "category": "ui",
+   "name": "Toggle off",
+   "ru": "Переключатель выключен · тумблер выкл",
+   "width": 454,
+   "height": 256,
+   "sha256": "53f0d9c4db55d8fb60c575091726060916b82350ba3b702e575069af50c2a0ee"
+  },
+  {
+   "id": "loader",
+   "file": "icons/loader.png",
+   "category": "ui",
+   "name": "Loader",
+   "ru": "Загрузка · ожидание спиннер",
+   "width": 256,
+   "height": 256,
+   "sha256": "af8cecbe66b9417ea4d3ed0682ed27bb7be709a0ac2ceae882dc289ce531117c"
+  },
+  {
+   "id": "move",
+   "file": "icons/move.png",
+   "category": "ui",
+   "name": "Move",
+   "ru": "Переместить · тащить четыре стрелки",
+   "width": 256,
+   "height": 256,
+   "sha256": "db13af767d0d0e1bc4a7540764ed998f7a8219feee4dfdec79e0661eab17115f"
+  },
+  {
+   "id": "inbox",
+   "file": "icons/inbox.png",
+   "category": "ui",
+   "name": "Inbox",
+   "ru": "Входящие · ящик заявки",
+   "width": 272,
+   "height": 256,
+   "sha256": "07c53058205ec7a7e756f6d90720d665209b242746188be9fb57bcbf1365edc1"
+  },
+  {
+   "id": "archive",
+   "file": "icons/archive.png",
+   "category": "ui",
+   "name": "Archive",
+   "ru": "Архив · коробка хранить",
+   "width": 286,
+   "height": 256,
+   "sha256": "66294dcb83cf0002a3fffee35c1892d73af22cfadb13ad1dc4730a8825a4379f"
+  },
+  {
+   "id": "paperclip",
+   "file": "icons/paperclip.png",
+   "category": "ui",
+   "name": "Paperclip",
+   "ru": "Скрепка · вложение файл",
+   "width": 235,
+   "height": 256,
+   "sha256": "b203d8667db7c3c259e2f142dccb5b0365edf221150870675024f16af6acc35b"
+  },
+  {
+   "id": "user-plus",
+   "file": "icons/user-plus.png",
+   "category": "ui",
+   "name": "User plus",
+   "ru": "Добавить человека · новый контакт",
+   "width": 298,
+   "height": 256,
+   "sha256": "b26e767a5af94ab8eb10cfe62036c62d6c174aaec33bfe3483a3172b390357b1"
+  },
+  {
+   "id": "sun",
+   "file": "icons/sun.png",
+   "category": "ui",
+   "name": "Sun",
+   "ru": "Солнце · светлая тема день",
+   "width": 256,
+   "height": 256,
+   "sha256": "52177182b2b548f4897c07c47588a04eb5ecb7e6088d483bbb216903f016ad64"
+  },
+  {
+   "id": "moon",
+   "file": "icons/moon.png",
+   "category": "ui",
+   "name": "Moon",
+   "ru": "Луна · тёмная тема ночь",
+   "width": 256,
+   "height": 256,
+   "sha256": "c6d2076b30ebe89bff2291f93c736107489d92749d8c58057ffb7aa2cbabf80d"
+  },
+  {
+   "id": "redo",
+   "file": "icons/redo.png",
+   "category": "ui",
+   "name": "Redo",
+   "ru": "Повторить · вернуть повтор вперёд отменить отмену",
+   "width": 273,
+   "height": 256,
+   "sha256": "daff10e5d0a0f403dce43d321688a914940f83b173385d7f4456711139bcaa53"
+  },
+  {
+   "id": "swap",
+   "file": "icons/swap.png",
+   "category": "ui",
+   "name": "Swap",
+   "ru": "Обмен · поменять местами стрелки переключить",
+   "width": 270,
+   "height": 256,
+   "sha256": "2aa29193032f2734230ebe52f2fb11d992b7e62aae5ddb18ee5c6f3d9e96d263"
+  },
+  {
+   "id": "rotate",
+   "file": "icons/rotate.png",
+   "category": "ui",
+   "name": "Rotate",
+   "ru": "Повернуть · поворот по часовой вращение крутить",
+   "width": 313,
+   "height": 256,
+   "sha256": "244aa8a73bfdf6d8fd87f7e68b40e89c6102b98eda9c384e53c4e47bcdaa251e"
+  },
+  {
+   "id": "align-left",
+   "file": "icons/align-left.png",
+   "category": "ui",
+   "name": "Align left",
+   "ru": "Выровнять влево · выравнивание текст строки абзац",
+   "width": 330,
+   "height": 256,
+   "sha256": "0a6bfd3baa24ae3fbe482974e4f8dde0f3a7c93511f686ee56b1df13b487d651"
+  },
+  {
+   "id": "align-center",
+   "file": "icons/align-center.png",
+   "category": "ui",
+   "name": "Align center",
+   "ru": "По центру · выравнивание текст центр строки",
+   "width": 330,
+   "height": 256,
+   "sha256": "e2bf3e0f5da79a97298c6478e94f9a644b58905149340084b2894604337429b7"
+  },
+  {
+   "id": "bold",
+   "file": "icons/bold.png",
+   "category": "ui",
+   "name": "Bold",
+   "ru": "Жирный · полужирный шрифт текст начертание",
+   "width": 181,
+   "height": 256,
+   "sha256": "b2f4b01c43f67198ba48568a2a706c038aebbe2fbc8f75136119bdb21c9a13db"
+  },
+  {
+   "id": "italic",
+   "file": "icons/italic.png",
+   "category": "ui",
+   "name": "Italic",
+   "ru": "Курсив · наклонный шрифт текст начертание",
+   "width": 210,
+   "height": 256,
+   "sha256": "c546ac3f51065399490c36439c130862e0c307a5f2cc55b631a76a0e627754f2"
+  },
+  {
+   "id": "link-off",
+   "file": "icons/link-off.png",
+   "category": "ui",
+   "name": "Link off",
+   "ru": "Без ссылки · разорвать отвязать убрать ссылку связь",
+   "width": 256,
+   "height": 256,
+   "sha256": "c23ca32a3ca5f1350810b0795247ad14bd308204002eb233234ce105e36ebdd5"
+  },
+  {
+   "id": "clipboard",
+   "file": "icons/clipboard.png",
+   "category": "ui",
+   "name": "Clipboard",
+   "ru": "Буфер обмена · доска планшет вставить заметки",
+   "width": 203,
+   "height": 256,
+   "sha256": "d5e272b038c1af975967801f6f114344f807e6b6d8545a296ac2fde023cc8853"
+  },
+  {
+   "id": "save",
+   "file": "icons/save.png",
+   "category": "ui",
+   "name": "Save",
+   "ru": "Сохранить · дискета запись сохранение файл",
+   "width": 256,
+   "height": 256,
+   "sha256": "d8923a50fcc719b931835a9cb09fbf32f8449f9471b7e3b5a935382268ec6bde"
+  },
+  {
+   "id": "print",
+   "file": "icons/print.png",
+   "category": "ui",
+   "name": "Print",
+   "ru": "Печать · принтер распечатать бумага документ",
+   "width": 244,
+   "height": 256,
+   "sha256": "63672e58ab84a601f8e00682b3bef2ed656e0bd3bfc661212cdd5e056feef6cf"
+  },
+  {
+   "id": "panel-left",
+   "file": "icons/panel-left.png",
+   "category": "ui",
+   "name": "Panel left",
+   "ru": "Боковая панель · сайдбар колонка окно панель",
+   "width": 288,
+   "height": 256,
+   "sha256": "d577ff5376697102089439643f641a3252919e9adc8988132924b23f6cb0d17b"
+  },
+  {
+   "id": "folder-open",
+   "file": "icons/folder-open.png",
+   "category": "ui",
+   "name": "Folder open",
+   "ru": "Открытая папка · папка открыть каталог файлы",
+   "width": 283,
+   "height": 256,
+   "sha256": "d90f01c256a6d2994cc9356ced413fc3b2e854b6ed61d56fbb01fba3e6642461"
+  },
+  {
+   "id": "file-plus",
+   "file": "icons/file-plus.png",
+   "category": "ui",
+   "name": "File plus",
+   "ru": "Новый файл · файл добавить создать документ",
+   "width": 228,
+   "height": 256,
+   "sha256": "753527370026ce660e6c3a423c22b4dce77280191385d97aa410505409c3e1f2"
+  },
+  {
+   "id": "file-video",
+   "file": "icons/file-video.png",
+   "category": "ui",
+   "name": "File video",
+   "ru": "Видеофайл · видео файл ролик клип",
+   "width": 228,
+   "height": 256,
+   "sha256": "946101219b2c0903dcd4ee9b0c21e3c0201c666de9ab085e626110a018fa4e13"
+  },
+  {
+   "id": "file-audio",
+   "file": "icons/file-audio.png",
+   "category": "ui",
+   "name": "File audio",
+   "ru": "Аудиофайл · звук музыка файл нота",
+   "width": 228,
+   "height": 256,
+   "sha256": "87c19c35ec6cf6c48d5eff7154ceccc8d32459f13338d8f528ca8ccfc2dc5543"
+  },
+  {
+   "id": "file-zip",
+   "file": "icons/file-zip.png",
+   "category": "ui",
+   "name": "File zip",
+   "ru": "Архив · zip сжатый файл молния",
+   "width": 228,
+   "height": 256,
+   "sha256": "2ec7e4910b405a77faa1f2538d0705d45b8ae563288b48900960d88664a9f4ea"
+  },
+  {
+   "id": "play",
+   "file": "icons/play.png",
+   "category": "media",
+   "name": "Play",
+   "ru": "Играть · воспроизвести старт",
+   "width": 224,
+   "height": 256,
+   "sha256": "ca52f19d4087eec65af4a1a21fc589bb67677d68e6ade16bea8ac28267336719"
+  },
+  {
+   "id": "pause",
+   "file": "icons/pause.png",
+   "category": "media",
+   "name": "Pause",
+   "ru": "Пауза · стоп на месте",
+   "width": 210,
+   "height": 256,
+   "sha256": "34ead056a6c5e199dddf8d9b3cb9e84801a379f3c951417fcd67ed563ce42720"
+  },
+  {
+   "id": "stop",
+   "file": "icons/stop.png",
+   "category": "media",
+   "name": "Stop",
+   "ru": "Стоп · остановить",
+   "width": 256,
+   "height": 256,
+   "sha256": "a2208a276a7b5499cce5f111592e3742862e733d0f4804d18dc77f657603550a"
+  },
+  {
+   "id": "record",
+   "file": "icons/record.png",
+   "category": "media",
+   "name": "Record",
+   "ru": "Запись · rec красная точка",
+   "width": 256,
+   "height": 256,
+   "sha256": "19712b91bc73e5fac5cb686e2ee45359efdfc8f8236568c5627acecb4a479fdd"
+  },
+  {
+   "id": "camera",
+   "file": "icons/camera.png",
+   "category": "media",
+   "name": "Camera",
+   "ru": "Фото · камера снимок",
+   "width": 270,
+   "height": 256,
+   "sha256": "e3b48816603e2b5056162784fd50e2cfa659199f2cc648bd758f9d3d0293369c"
+  },
+  {
+   "id": "video",
+   "file": "icons/video.png",
+   "category": "media",
+   "name": "Video",
+   "ru": "Видео · камера ролик",
+   "width": 386,
+   "height": 256,
+   "sha256": "082d35e4a479138439419c4c72524787b37415959cbd929141040eeb4eeaed05"
+  },
+  {
+   "id": "film",
+   "file": "icons/film.png",
+   "category": "media",
+   "name": "Film",
+   "ru": "Плёнка · кино кадры",
+   "width": 241,
+   "height": 256,
+   "sha256": "e110b28d8b0369d8f7b1f69c1f2d3438381fd6c952c100aad8adf08f5d7815de"
+  },
+  {
+   "id": "clapper",
+   "file": "icons/clapper.png",
+   "category": "media",
+   "name": "Clapper",
+   "ru": "Хлопушка · дубль съёмка",
+   "width": 262,
+   "height": 256,
+   "sha256": "c0097a4b0c75e858080d5ae32fc146a96d72d41f26d4239e18c3d1d6d0ee9a7b"
+  },
+  {
+   "id": "mic",
+   "file": "icons/mic.png",
+   "category": "media",
+   "name": "Mic",
+   "ru": "Микрофон · голос озвучка",
+   "width": 190,
+   "height": 256,
+   "sha256": "8a11c21e305e6dd358bbeeb17f757eb45251907d1a94469da681e67198a80e01"
+  },
+  {
+   "id": "speaker",
+   "file": "icons/speaker.png",
+   "category": "media",
+   "name": "Speaker",
+   "ru": "Динамик · звук громкость",
+   "width": 277,
+   "height": 256,
+   "sha256": "9daf1c4df4a3e5576d0e5dc6a72627dff071fcee5450c1a8b5e193a27aedcca6"
+  },
+  {
+   "id": "mute",
+   "file": "icons/mute.png",
+   "category": "media",
+   "name": "Mute",
+   "ru": "Без звука · выкл звук",
+   "width": 274,
+   "height": 256,
+   "sha256": "da5d44692805bd661f95daa96e842b75821533427feccba8b7fb7465226f9bce"
+  },
+  {
+   "id": "music",
+   "file": "icons/music.png",
+   "category": "media",
+   "name": "Music",
+   "ru": "Музыка · нота трек",
+   "width": 241,
+   "height": 256,
+   "sha256": "08655df65a32d9253a81fb7ee1b79f038398359ea43b78250c14f452a8cf1c0a"
+  },
+  {
+   "id": "headphones",
+   "file": "icons/headphones.png",
+   "category": "media",
+   "name": "Headphones",
+   "ru": "Наушники · слушать",
+   "width": 280,
+   "height": 256,
+   "sha256": "d3fd43eec91590cc0afca6f59b0ebf4686f27a62d05774f00ee3cc0bbb4ed374"
+  },
+  {
+   "id": "waveform",
+   "file": "icons/waveform.png",
+   "category": "media",
+   "name": "Waveform",
+   "ru": "Звуковая волна · аудио дорожка",
+   "width": 241,
+   "height": 256,
+   "sha256": "f4d2a1d51313615fda385a6f61f3b5879d2adf0f34b9149158f64a8cee4e615b"
+  },
+  {
+   "id": "image",
+   "file": "icons/image.png",
+   "category": "media",
+   "name": "Image",
+   "ru": "Картинка · фото изображение",
+   "width": 272,
+   "height": 256,
+   "sha256": "cca4e47c306f22be6aa896e5fb610c6ea5c8ddbf59ca96027af00c1d1830d177"
+  },
+  {
+   "id": "layers",
+   "file": "icons/layers.png",
+   "category": "media",
+   "name": "Layers",
+   "ru": "Слои · стопка уровни",
+   "width": 256,
+   "height": 256,
+   "sha256": "ab1b6c5b59c217f512619470251f81e41a51a2e6ca4e4956434a470a4894c328"
+  },
+  {
+   "id": "crop",
+   "file": "icons/crop.png",
+   "category": "media",
+   "name": "Crop",
+   "ru": "Кадрирование · обрезка рамка",
+   "width": 256,
+   "height": 256,
+   "sha256": "3f2a5896944ffef66d10d1641ae666c8f0c1b760fe177b01f9ce5e8602f27f65"
+  },
+  {
+   "id": "scissors",
+   "file": "icons/scissors.png",
+   "category": "media",
+   "name": "Scissors",
+   "ru": "Ножницы · вырезать монтаж",
+   "width": 255,
+   "height": 256,
+   "sha256": "5c500e70b3710b062694ac2d848d27c1b3c215334fd41d138805b22a6ee23274"
+  },
+  {
+   "id": "timeline",
+   "file": "icons/timeline.png",
+   "category": "media",
+   "name": "Timeline",
+   "ru": "Таймлайн · монтаж дорожки",
+   "width": 288,
+   "height": 256,
+   "sha256": "f729ad86901ced50fc26ed1b95ac6bea3c7c461b4eec4da2a387803bd0c5f519"
+  },
+  {
+   "id": "wand",
+   "file": "icons/wand.png",
+   "category": "media",
+   "name": "Wand",
+   "ru": "Волшебная палочка · магия эффект",
+   "width": 248,
+   "height": 256,
+   "sha256": "55561943672805a6b295322612420802801003f3cf7022d039351894e8a31924"
+  },
+  {
+   "id": "sparkles",
+   "file": "icons/sparkles.png",
+   "category": "media",
+   "name": "Sparkles",
+   "ru": "Искры · ии магия",
+   "width": 242,
+   "height": 256,
+   "sha256": "41dc197b19c84dbaf1068e89c61f37ac1a4696573358dbf60527b72e5ce3c184"
+  },
+  {
+   "id": "palette",
+   "file": "icons/palette.png",
+   "category": "media",
+   "name": "Palette",
+   "ru": "Палитра · цвет краски",
+   "width": 269,
+   "height": 256,
+   "sha256": "840c53b76f011256b622e35dabc63e82c71e74d5777bdccaf9b913927c77e2bd"
+  },
+  {
+   "id": "text",
+   "file": "icons/text.png",
+   "category": "media",
+   "name": "Text",
+   "ru": "Текст · буква шрифт",
+   "width": 256,
+   "height": 256,
+   "sha256": "41dc55b9db216fff711bdf50f42af24c5d9127d17e07b9baf76a9b40c63136e3"
+  },
+  {
+   "id": "caption",
+   "file": "icons/caption.png",
+   "category": "media",
+   "name": "Caption",
+   "ru": "Субтитры · титры подпись",
+   "width": 320,
+   "height": 256,
+   "sha256": "8fef3ef254bf743b92019aea6b81327e05bda169ac4d4a2a29aabf15d7e878cd"
+  },
+  {
+   "id": "phone",
+   "file": "icons/phone.png",
+   "category": "media",
+   "name": "Phone",
+   "ru": "Вертикальный экран · рилс телефон 9:16",
+   "width": 144,
+   "height": 256,
+   "sha256": "88178309ce85448fb3400f05f8620ab77472c8b4a1dd12f1f910b5343e06d0c7"
+  },
+  {
+   "id": "screen",
+   "file": "icons/screen.png",
+   "category": "media",
+   "name": "Screen",
+   "ru": "Экран · монитор компьютер",
+   "width": 277,
+   "height": 256,
+   "sha256": "4e1b78c8c459f127a337924eef6afe727df4dc83ee2399128729c8faf2c97cee"
+  },
+  {
+   "id": "skip-next",
+   "file": "icons/skip-next.png",
+   "category": "media",
+   "name": "Skip next",
+   "ru": "Следующий · дальше трек",
+   "width": 256,
+   "height": 256,
+   "sha256": "6433f3491b0f6aff2bd63f3edce63fc9c2cd56c5d018a8995dbf7ea99e16bed7"
+  },
+  {
+   "id": "skip-back",
+   "file": "icons/skip-back.png",
+   "category": "media",
+   "name": "Skip back",
+   "ru": "Предыдущий · назад трек",
+   "width": 256,
+   "height": 256,
+   "sha256": "c77de14be2fe43e09a062faaa1951324b975cb9e62fa2ec1b787fc07fa7e02cd"
+  },
+  {
+   "id": "repeat",
+   "file": "icons/repeat.png",
+   "category": "media",
+   "name": "Repeat",
+   "ru": "Повтор · цикл луп",
+   "width": 229,
+   "height": 256,
+   "sha256": "081a35e61dd93af79582fa229f65991ff4f9fb5d573fbff6ed2e33483012ea99"
+  },
+  {
+   "id": "shuffle",
+   "file": "icons/shuffle.png",
+   "category": "media",
+   "name": "Shuffle",
+   "ru": "Вперемешку · случайно перемешать",
+   "width": 286,
+   "height": 256,
+   "sha256": "9e7bd49ffb09f7efc7e5f814c77142316a8835ecac58aa0a8e8f774dfef00669"
+  },
+  {
+   "id": "mic-off",
+   "file": "icons/mic-off.png",
+   "category": "media",
+   "name": "Mic off",
+   "ru": "Микрофон выключен · без голоса",
+   "width": 229,
+   "height": 256,
+   "sha256": "7432839a0fee16a1605c27986f6098fc6141beffca7f404eb1d954cf391f173f"
+  },
+  {
+   "id": "speed",
+   "file": "icons/speed.png",
+   "category": "media",
+   "name": "Speed",
+   "ru": "Скорость · спидометр темп",
+   "width": 339,
+   "height": 256,
+   "sha256": "1a035806909a3b15fb888437628c4cd10c3e60257cd5ecf199913aecd4f673b0"
+  },
+  {
+   "id": "split",
+   "file": "icons/split.png",
+   "category": "media",
+   "name": "Split",
+   "ru": "Разрез · разделить кадр",
+   "width": 305,
+   "height": 256,
+   "sha256": "e8c2fb3c300910df48cc457ee9f62edc8f1ecc2f90ef97149276904b07c784ba"
+  },
+  {
+   "id": "transition",
+   "file": "icons/transition.png",
+   "category": "media",
+   "name": "Transition",
+   "ru": "Переход · склейка между сценами",
+   "width": 272,
+   "height": 256,
+   "sha256": "a4143706f8393d5034d0e8e26eacf9a0869ecb58cf1cd58177fd942e09d49917"
+  },
+  {
+   "id": "pip",
+   "file": "icons/pip.png",
+   "category": "media",
+   "name": "Pip",
+   "ru": "Картинка в картинке · окошко в углу",
+   "width": 320,
+   "height": 256,
+   "sha256": "c4b36cd766c820fb966da12378db1fbaeac68676553a59f2d1b614a7b036a130"
+  },
+  {
+   "id": "drop",
+   "file": "icons/drop.png",
+   "category": "media",
+   "name": "Drop",
+   "ru": "Капля · размытие вода",
+   "width": 193,
+   "height": 256,
+   "sha256": "fc09a7c0214c40f32e272e9502c1aeb7e25fec1b08ceae60aca66825dac5d55e"
+  },
+  {
+   "id": "contrast",
+   "file": "icons/contrast.png",
+   "category": "media",
+   "name": "Contrast",
+   "ru": "Контраст · яркость экспозиция",
+   "width": 256,
+   "height": 256,
+   "sha256": "35a4f834a51d615c7aca4f51c5e697e83133a3f36d1b09eefaab9fd09799f0a6"
+  },
+  {
+   "id": "aspect-wide",
+   "file": "icons/aspect-wide.png",
+   "category": "media",
+   "name": "Aspect wide",
+   "ru": "Горизонтальный кадр · 16:9 широкий",
+   "width": 414,
+   "height": 256,
+   "sha256": "2a15bdea931c367cdd62750381c4b5684e6893d50f406b536104b239ffa954e2"
+  },
+  {
+   "id": "aspect-square",
+   "file": "icons/aspect-square.png",
+   "category": "media",
+   "name": "Aspect square",
+   "ru": "Квадратный кадр · 1:1 пост",
+   "width": 256,
+   "height": 256,
+   "sha256": "be1eccb454cfdd10e59f1f3f7860528e5f5238ebc91d3a7e62630fa15d9a6f83"
+  },
+  {
+   "id": "smile",
+   "file": "icons/smile.png",
+   "category": "media",
+   "name": "Smile",
+   "ru": "Улыбка · эмодзи смайл",
+   "width": 256,
+   "height": 256,
+   "sha256": "c06e0627f81f8eb7aba6e2fcfc789c8921588ae9877bce76dc6733d9d8f6d4b0"
+  },
+  {
+   "id": "reel",
+   "file": "icons/reel.png",
+   "category": "media",
+   "name": "Reel",
+   "ru": "Рилс · короткое видео инстаграм",
+   "width": 256,
+   "height": 256,
+   "sha256": "e072f5ea51ec1f8983b88e7844ba63e249aca73c4b2136d594ddaafc70fa2c3f"
+  },
+  {
+   "id": "volume-low",
+   "file": "icons/volume-low.png",
+   "category": "media",
+   "name": "Volume low",
+   "ru": "Тихо · громкость звук тише динамик",
+   "width": 224,
+   "height": 256,
+   "sha256": "c281610de6ec9ad1ea859180fc47b033e4e118947a1cbbccb1220da7cc6b14c4"
+  },
+  {
+   "id": "volume-high",
+   "file": "icons/volume-high.png",
+   "category": "media",
+   "name": "Volume high",
+   "ru": "Громко · громкость звук громче динамик",
+   "width": 330,
+   "height": 256,
+   "sha256": "8e2f47daaf5b26044edf948142d121ce1ad23b07abd9441b7c5fdd04ea1a418d"
+  },
+  {
+   "id": "camera-off",
+   "file": "icons/camera-off.png",
+   "category": "media",
+   "name": "Camera off",
+   "ru": "Камера выключена · без фото камера запрет",
+   "width": 256,
+   "height": 256,
+   "sha256": "49762329d9dbf9f6fc9f873ef4f4141f3f33752d62cbf78454b2c1632c5ff352"
+  },
+  {
+   "id": "video-off",
+   "file": "icons/video-off.png",
+   "category": "media",
+   "name": "Video off",
+   "ru": "Видео выключено · без видео камера запрет",
+   "width": 279,
+   "height": 256,
+   "sha256": "fad7ede9e47256b5cbad20ac7c6eb2770985e2c14adfe1671084c67688331566"
+  },
+  {
+   "id": "image-plus",
+   "file": "icons/image-plus.png",
+   "category": "media",
+   "name": "Image plus",
+   "ru": "Добавить картинку · фото изображение добавить загрузить",
+   "width": 248,
+   "height": 256,
+   "sha256": "ff31143ce1b987d39e6dd7b6ff5ea47a35ab7471ed1458080adb280a794fedef"
+  },
+  {
+   "id": "brush",
+   "file": "icons/brush.png",
+   "category": "media",
+   "name": "Brush",
+   "ru": "Кисть · рисовать краска покраска мазок",
+   "width": 256,
+   "height": 256,
+   "sha256": "8a0277d954e36d849257fa53426f740c153c00020fecb8dcc20bcb3ba0a8643f"
+  },
+  {
+   "id": "eraser",
+   "file": "icons/eraser.png",
+   "category": "media",
+   "name": "Eraser",
+   "ru": "Ластик · стереть удалить очистить резинка",
+   "width": 241,
+   "height": 256,
+   "sha256": "00cfa11539e8ea6faa3088b96fd3b8718aaf6d1dfacc4fe6fa16648de435da9c"
+  },
+  {
+   "id": "pipette",
+   "file": "icons/pipette.png",
+   "category": "media",
+   "name": "Pipette",
+   "ru": "Пипетка · цвет выбор образец пипетка",
+   "width": 256,
+   "height": 256,
+   "sha256": "56f2e807df35565a838b03b2f690b3d63e833b54255234f0db805cd51c2e0847"
+  },
+  {
+   "id": "keyframe",
+   "file": "icons/keyframe.png",
+   "category": "media",
+   "name": "Keyframe",
+   "ru": "Ключевой кадр · анимация ключ ромб таймлайн",
+   "width": 517,
+   "height": 256,
+   "sha256": "b97a29cc27cdc7b020b617a259da416ec4fd15f71a68fb12f68c5694dd735215"
+  },
+  {
+   "id": "playlist",
+   "file": "icons/playlist.png",
+   "category": "media",
+   "name": "Playlist",
+   "ru": "Плейлист · список треки музыка очередь",
+   "width": 303,
+   "height": 256,
+   "sha256": "5697a15c448a5d465faf3e1b11a5efdfff58c9ebde50e5fb612708095c8b2a0c"
+  },
+  {
+   "id": "gif",
+   "file": "icons/gif.png",
+   "category": "media",
+   "name": "Gif",
+   "ru": "Гифка · gif анимация гиф картинка",
+   "width": 335,
+   "height": 256,
+   "sha256": "e1660c4afe07ad631994a5ed5cfe9073fa68f4cb61e8cd87f85fcb9b1b5f13d6"
+  },
+  {
+   "id": "sticker",
+   "file": "icons/sticker.png",
+   "category": "media",
+   "name": "Sticker",
+   "ru": "Стикер · наклейка эмодзи стикер реакция",
+   "width": 256,
+   "height": 256,
+   "sha256": "4bbc51b94d390314065d64c1ae75c5b9bf9202f7f51d3ed1292eb1b282adf986"
+  },
+  {
+   "id": "timer",
+   "file": "icons/timer.png",
+   "category": "media",
+   "name": "Timer",
+   "ru": "Секундомер · таймер время отсчёт секунды",
+   "width": 217,
+   "height": 256,
+   "sha256": "e4fe79fba990a6493bf2ce60a76cc3b50185a954b5282ab0e8a0998e7be19c76"
+  },
+  {
+   "id": "image-off",
+   "file": "icons/image-off.png",
+   "category": "media",
+   "name": "Image off",
+   "ru": "Нет картинки · без фото картинка файл запрет",
+   "width": 272,
+   "height": 256,
+   "sha256": "3b304096fa9df7f96352e48c53d40ac74dae16dfef75bc96361425a07fe0a370"
+  },
+  {
+   "id": "brain",
+   "file": "icons/brain.png",
+   "category": "tech",
+   "name": "Brain",
+   "ru": "Мозг · ии нейросеть",
+   "width": 276,
+   "height": 256,
+   "sha256": "9b7f414ed2023b37f0b9d2427bb0800db496141cba8d2b1373dff82163472b20"
+  },
+  {
+   "id": "chip",
+   "file": "icons/chip.png",
+   "category": "tech",
+   "name": "Chip",
+   "ru": "Чип · процессор железо",
+   "width": 256,
+   "height": 256,
+   "sha256": "801268ebe7a2bd04b528b5df00ba54434353a37438f9f208b67a340fe9117b81"
+  },
+  {
+   "id": "code",
+   "file": "icons/code.png",
+   "category": "tech",
+   "name": "Code",
+   "ru": "Код · скобки разработка",
+   "width": 286,
+   "height": 256,
+   "sha256": "edfb8dd9e1f689b29bb008c10ea8aa7cb66eaa211d29962ff204c5291d566b7a"
+  },
+  {
+   "id": "terminal",
+   "file": "icons/terminal.png",
+   "category": "tech",
+   "name": "Terminal",
+   "ru": "Терминал · консоль командная строка",
+   "width": 302,
+   "height": 256,
+   "sha256": "05d8a6f69b76004f9133e5e91a0be2944bc73f6a7af5bb81289206768640d54c"
+  },
+  {
+   "id": "database",
+   "file": "icons/database.png",
+   "category": "tech",
+   "name": "Database",
+   "ru": "База данных · хранилище",
+   "width": 221,
+   "height": 256,
+   "sha256": "f8588e5364871a535e9b18757ddbffcf269278ee7358d845a03752d691aacc86"
+  },
+  {
+   "id": "cloud",
+   "file": "icons/cloud.png",
+   "category": "tech",
+   "name": "Cloud",
+   "ru": "Облако · сервер сеть",
+   "width": 347,
+   "height": 256,
+   "sha256": "a72c08299a3563476c0d088b3e53f41973c0efc26fa4be4ffd96550df1efea0d"
+  },
+  {
+   "id": "globe",
+   "file": "icons/globe.png",
+   "category": "tech",
+   "name": "Globe",
+   "ru": "Глобус · сайт интернет мир",
+   "width": 256,
+   "height": 256,
+   "sha256": "615e075e64b47eb8345d7b72346b18ecdb52e5ea2dc0246d27abfaba57c4ff99"
+  },
+  {
+   "id": "server",
+   "file": "icons/server.png",
+   "category": "tech",
+   "name": "Server",
+   "ru": "Сервер · хостинг",
+   "width": 272,
+   "height": 256,
+   "sha256": "d56a8ce367c14ba79653b91264bb54182cc9261c21560bb4f7ff330a89e586ab"
+  },
+  {
+   "id": "braces",
+   "file": "icons/braces.png",
+   "category": "tech",
+   "name": "Braces",
+   "ru": "Фигурные скобки · json api данные",
+   "width": 272,
+   "height": 256,
+   "sha256": "9d1b26a7664bb9895eb70986dd36c15d0f66635355d4f0c795582cfec7844204"
+  },
+  {
+   "id": "puzzle",
+   "file": "icons/puzzle.png",
+   "category": "tech",
+   "name": "Puzzle",
+   "ru": "Пазл · плагин модуль",
+   "width": 211,
+   "height": 256,
+   "sha256": "cc04a03be37fdbe3447443c3e16b389aa515dc90e36f5de642fc0ce491cc22dc"
+  },
+  {
+   "id": "cube",
+   "file": "icons/cube.png",
+   "category": "tech",
+   "name": "Cube",
+   "ru": "Куб · блок объект 3d",
+   "width": 244,
+   "height": 256,
+   "sha256": "02378449797ff2791bee31fc2cb7ae62bd6183c8fcfb7dc36af40f9ec52bdec1"
+  },
+  {
+   "id": "flow",
+   "file": "icons/flow.png",
+   "category": "tech",
+   "name": "Flow",
+   "ru": "Схема · процесс воронка граф",
+   "width": 269,
+   "height": 256,
+   "sha256": "5aa1005a4189398536a0e0d19e4dd65747a57105b0c2201b55ee97a3f66779d7"
+  },
+  {
+   "id": "plug",
+   "file": "icons/plug.png",
+   "category": "tech",
+   "name": "Plug",
+   "ru": "Вилка · подключение интеграция",
+   "width": 127,
+   "height": 256,
+   "sha256": "128441875d33f230129bf94e8f17df1829a91b382e8424559a6d45bbc479b907"
+  },
+  {
+   "id": "wifi",
+   "file": "icons/wifi.png",
+   "category": "tech",
+   "name": "Wifi",
+   "ru": "Wi-Fi · сеть связь",
+   "width": 309,
+   "height": 256,
+   "sha256": "5cca5103e9e92d158c2b61a8c6ca629e99eaa48e042f8e601cf08a7de0390113"
+  },
+  {
+   "id": "automation",
+   "file": "icons/automation.png",
+   "category": "tech",
+   "name": "Automation",
+   "ru": "Автоматизация · цикл авто",
+   "width": 229,
+   "height": 256,
+   "sha256": "055001edf167e54b295a86cb61779581e64c6167791cfc448d623f8754117e3c"
+  },
+  {
+   "id": "infinity",
+   "file": "icons/infinity.png",
+   "category": "tech",
+   "name": "Infinity",
+   "ru": "Бесконечность · infinity логотип знак",
+   "width": 517,
+   "height": 256,
+   "sha256": "9dc749f01ac8351800c2713dbd0ffe0be36ba1247652ee570583370550fa249d"
+  },
+  {
+   "id": "bug",
+   "file": "icons/bug.png",
+   "category": "tech",
+   "name": "Bug",
+   "ru": "Жук · баг ошибка",
+   "width": 283,
+   "height": 256,
+   "sha256": "1fdb7a15a4a518c7a430e8e529ce0b7e9bd9d232e9ca30db02b972aa26bfc05f"
+  },
+  {
+   "id": "git-branch",
+   "file": "icons/git-branch.png",
+   "category": "tech",
+   "name": "Git branch",
+   "ru": "Ветка · git версии",
+   "width": 241,
+   "height": 256,
+   "sha256": "d0969972da0ea367f80fbdb9467b018e2ae2ae1188cf3d37f7524484d00d0202"
+  },
+  {
+   "id": "table",
+   "file": "icons/table.png",
+   "category": "tech",
+   "name": "Table",
+   "ru": "Таблица · данные строки",
+   "width": 288,
+   "height": 256,
+   "sha256": "d46d6c976c46271f862e6e1d827843b7ed936689a1babb339b7259df1bacac80"
+  },
+  {
+   "id": "window",
+   "file": "icons/window.png",
+   "category": "tech",
+   "name": "Window",
+   "ru": "Окно · приложение браузер",
+   "width": 302,
+   "height": 256,
+   "sha256": "f550646b5a59374ea04f58fd74afca8f3327d6e9f0e6340b5b14b28f5a110d6e"
+  },
+  {
+   "id": "laptop",
+   "file": "icons/laptop.png",
+   "category": "tech",
+   "name": "Laptop",
+   "ru": "Ноутбук · компьютер макбук",
+   "width": 307,
+   "height": 256,
+   "sha256": "c6df1e433f51abfb441931bb5461361c6c622410a3d996e6d60e985f470d798d"
+  },
+  {
+   "id": "keyboard",
+   "file": "icons/keyboard.png",
+   "category": "tech",
+   "name": "Keyboard",
+   "ru": "Клавиатура · печатать клавиши",
+   "width": 414,
+   "height": 256,
+   "sha256": "4858b3975567ea4e845bc58ce864b1d3bd91bbb8f31a6bf7075d06466558e61a"
+  },
+  {
+   "id": "mouse",
+   "file": "icons/mouse.png",
+   "category": "tech",
+   "name": "Mouse",
+   "ru": "Мышь · курсор компьютер",
+   "width": 166,
+   "height": 256,
+   "sha256": "b718acff70c4dd72c7e3016bc47b16a89e443112d58d1e090b43db2a49ad87ae"
+  },
+  {
+   "id": "prompt",
+   "file": "icons/prompt.png",
+   "category": "tech",
+   "name": "Prompt",
+   "ru": "Промпт · запрос ии чат команда",
+   "width": 256,
+   "height": 256,
+   "sha256": "f4b5190dd333c5ddb3ec9a7ec316abe13d767bbbe3efeaeb124df086bf689216"
+  },
+  {
+   "id": "network",
+   "file": "icons/network.png",
+   "category": "tech",
+   "name": "Network",
+   "ru": "Сеть · узлы дерево структура",
+   "width": 268,
+   "height": 256,
+   "sha256": "416a7c735dbc8e5a034b944be9918220c961e096081e239747041ec66e7e672b"
+  },
+  {
+   "id": "qr",
+   "file": "icons/qr.png",
+   "category": "tech",
+   "name": "Qr",
+   "ru": "QR-код · код сканировать",
+   "width": 256,
+   "height": 256,
+   "sha256": "475761c8dbdfda7a092cb140d15496e38b89255b6bf99d57b7f7223449418d91"
+  },
+  {
+   "id": "cloud-download",
+   "file": "icons/cloud-download.png",
+   "category": "tech",
+   "name": "Cloud download",
+   "ru": "Скачать из облака · облако вниз",
+   "width": 347,
+   "height": 256,
+   "sha256": "eb2fecf7763306aea708531a0f853d75d2c004f2cbd368e7c4064257256f378e"
+  },
+  {
+   "id": "cloud-upload",
+   "file": "icons/cloud-upload.png",
+   "category": "tech",
+   "name": "Cloud upload",
+   "ru": "Загрузить в облако · облако вверх",
+   "width": 347,
+   "height": 256,
+   "sha256": "3c3c5563909603a0d8517f239c67a6d7a21f5bfcd4123bee824d1d47ba3127cd"
+  },
+  {
+   "id": "battery",
+   "file": "icons/battery.png",
+   "category": "tech",
+   "name": "Battery",
+   "ru": "Батарея · заряд",
+   "width": 483,
+   "height": 256,
+   "sha256": "5ded4557f350d85078a2946efff9f9ffdfb1f47ca9898bb1bb0956e3b35903bb"
+  },
+  {
+   "id": "webhook",
+   "file": "icons/webhook.png",
+   "category": "tech",
+   "name": "Webhook",
+   "ru": "Вебхук · хук интеграция событие api связка",
+   "width": 272,
+   "height": 256,
+   "sha256": "34a8571df0f783fbbf1652d1a9577270e6cc50cfd6e18ccf48686b34b6758cfb"
+  },
+  {
+   "id": "file-code",
+   "file": "icons/file-code.png",
+   "category": "tech",
+   "name": "File code",
+   "ru": "Файл с кодом · код скрипт исходник программа",
+   "width": 205,
+   "height": 256,
+   "sha256": "e58fd3b4f83ec83c6ccd0f066809b2440ee35a7a142b726a6ffd18b1608882d0"
+  },
+  {
+   "id": "folder-code",
+   "file": "icons/folder-code.png",
+   "category": "tech",
+   "name": "Folder code",
+   "ru": "Папка с кодом · проект репозиторий код исходники",
+   "width": 284,
+   "height": 256,
+   "sha256": "921c853e28bed7842e8e74a79f5af63b77252e79f3de7bc366427bc794e6e686"
+  },
+  {
+   "id": "git-merge",
+   "file": "icons/git-merge.png",
+   "category": "tech",
+   "name": "Git merge",
+   "ru": "Слияние веток · гит мерж ветка слить",
+   "width": 241,
+   "height": 256,
+   "sha256": "ab4306d178235fa71192b4b52d5f4e54bb3ae2a0749f53c175facbb7f099193a"
+  },
+  {
+   "id": "flask",
+   "file": "icons/flask.png",
+   "category": "tech",
+   "name": "Flask",
+   "ru": "Колба · тест эксперимент лаборатория химия",
+   "width": 220,
+   "height": 256,
+   "sha256": "38acf106154c827b4e32465268b6c181609c1a6f8ac39374ef3866eab6958368"
+  },
+  {
+   "id": "history",
+   "file": "icons/history.png",
+   "category": "tech",
+   "name": "History",
+   "ru": "История · часы назад прошлое журнал отмена",
+   "width": 257,
+   "height": 256,
+   "sha256": "37e0933cbee797095897dd5e3817023f3b8fc41d60b29330c09eb91b0db424a0"
+  },
+  {
+   "id": "shield-lock",
+   "file": "icons/shield-lock.png",
+   "category": "tech",
+   "name": "Shield lock",
+   "ru": "Защита · щит замок безопасность пароль",
+   "width": 217,
+   "height": 256,
+   "sha256": "7a3dccbd8beb414aeaf4b18216681fdccf3f4901ca4639aabcf44e01524aaa8a"
+  },
+  {
+   "id": "wifi-off",
+   "file": "icons/wifi-off.png",
+   "category": "tech",
+   "name": "Wifi off",
+   "ru": "Нет сети · вайфай офлайн отключено интернет",
+   "width": 277,
+   "height": 256,
+   "sha256": "45522bb4d296d46463cf93cd608bb3c4fa7efc4b08a874d4483bf5bd41067c33"
+  },
+  {
+   "id": "ai-chat",
+   "file": "icons/ai-chat.png",
+   "category": "tech",
+   "name": "Ai chat",
+   "ru": "ИИ-чат · нейросеть диалог ассистент сообщение искра",
+   "width": 248,
+   "height": 256,
+   "sha256": "dac0dc33cba0deeb8d8bff721b7035328ff26fa93608b3adafb7ea2642f7ff27"
+  },
+  {
+   "id": "ai-image",
+   "file": "icons/ai-image.png",
+   "category": "tech",
+   "name": "Ai image",
+   "ru": "ИИ-картинка · генерация нейросеть изображение фото искра",
+   "width": 302,
+   "height": 256,
+   "sha256": "45524086338bc615524e6e969dd9309d423e30d485400888267b8df9f3acd27a"
+  },
+  {
+   "id": "agent",
+   "file": "icons/agent.png",
+   "category": "tech",
+   "name": "Agent",
+   "ru": "ИИ-агент · робот бот нейросеть ассистент автопилот",
+   "width": 270,
+   "height": 256,
+   "sha256": "c8f68741ec72605898e90ff94d0da9f1c501977b234110a39af132f29d30fac1"
+  },
+  {
+   "id": "chat",
+   "file": "icons/chat.png",
+   "category": "social",
+   "name": "Chat",
+   "ru": "Чат · сообщение комментарий",
+   "width": 256,
+   "height": 256,
+   "sha256": "486cd2fdd8ed639bcd0b159a7bef2e6b5a3d530aa1b13b3a01808f8ac6c98263"
+  },
+  {
+   "id": "send",
+   "file": "icons/send.png",
+   "category": "social",
+   "name": "Send",
+   "ru": "Отправить · самолётик телеграм",
+   "width": 264,
+   "height": 256,
+   "sha256": "951a1b1ea2e2ccec257b4f3c23b22d5b5d582b7d5a1673d85a745099f44e8265"
+  },
+  {
+   "id": "mail",
+   "file": "icons/mail.png",
+   "category": "social",
+   "name": "Mail",
+   "ru": "Почта · письмо email",
+   "width": 345,
+   "height": 256,
+   "sha256": "ae05f7d213e86b6373314fc85700e5fabae14192ca9ef2a848d4e3d512f54e64"
+  },
+  {
+   "id": "megaphone",
+   "file": "icons/megaphone.png",
+   "category": "social",
+   "name": "Megaphone",
+   "ru": "Рупор · реклама анонс",
+   "width": 289,
+   "height": 256,
+   "sha256": "597aae1f18d477d42311189a93e9fd76d956846cb61c6ce044fac9c8584ddf7f"
+  },
+  {
+   "id": "hashtag",
+   "file": "icons/hashtag.png",
+   "category": "social",
+   "name": "Hashtag",
+   "ru": "Хэштег · тег решётка",
+   "width": 256,
+   "height": 256,
+   "sha256": "2f70c94bc3e4be975b6c76470c0b8f80f5dd09f8a1e7d12b3344625ced762b0f"
+  },
+  {
+   "id": "at",
+   "file": "icons/at.png",
+   "category": "social",
+   "name": "At",
+   "ru": "Собака · упоминание @ ник",
+   "width": 256,
+   "height": 256,
+   "sha256": "31a873e77e48043aab32f646197e4ab5c9c09cc9cd8fa837fbb1c8c1740f03ad"
+  },
+  {
+   "id": "user",
+   "file": "icons/user.png",
+   "category": "social",
+   "name": "User",
+   "ru": "Человек · профиль аккаунт",
+   "width": 235,
+   "height": 256,
+   "sha256": "dd778e401b7d204350c5574142a7c2028b2db9ca48737478c68c20ce58664407"
+  },
+  {
+   "id": "users",
+   "file": "icons/users.png",
+   "category": "social",
+   "name": "Users",
+   "ru": "Люди · аудитория подписчики",
+   "width": 298,
+   "height": 256,
+   "sha256": "2ffdc4fcf60bf65338c10f4addee4a92ac3da350ce15906a9eae1edb023fac2f"
+  },
+  {
+   "id": "trophy",
+   "file": "icons/trophy.png",
+   "category": "social",
+   "name": "Trophy",
+   "ru": "Кубок · победа награда",
+   "width": 224,
+   "height": 256,
+   "sha256": "6d644c75a4853da357371f425f83117a34d5c37de844269e564e2f0b96d3d5a3"
+  },
+  {
+   "id": "gift",
+   "file": "icons/gift.png",
+   "category": "social",
+   "name": "Gift",
+   "ru": "Подарок · бонус лид-магнит",
+   "width": 246,
+   "height": 256,
+   "sha256": "3004347faaf501aaa48beaac8e78dd9688dc666ed0e22ff817ab97d210d28c08"
+  },
+  {
+   "id": "rocket",
+   "file": "icons/rocket.png",
+   "category": "social",
+   "name": "Rocket",
+   "ru": "Ракета · запуск рост",
+   "width": 226,
+   "height": 256,
+   "sha256": "a0b9034b489f1ea1614aa463f2cb8d11452cd336c665df937106d75451918198"
+  },
+  {
+   "id": "target",
+   "file": "icons/target.png",
+   "category": "social",
+   "name": "Target",
+   "ru": "Цель · мишень фокус",
+   "width": 256,
+   "height": 256,
+   "sha256": "db6f23ee641446555b23e73bfaaa836defd42e408c843123ea2392a6142d5bdd"
+  },
+  {
+   "id": "trend-up",
+   "file": "icons/trend-up.png",
+   "category": "social",
+   "name": "Trend up",
+   "ru": "Рост · график вверх",
+   "width": 413,
+   "height": 256,
+   "sha256": "6064365d3e1d1dbb0c5979769150445248a2fb4e1722fa8745f94a521c5d8b72"
+  },
+  {
+   "id": "trend-down",
+   "file": "icons/trend-down.png",
+   "category": "social",
+   "name": "Trend down",
+   "ru": "Падение · график вниз",
+   "width": 413,
+   "height": 256,
+   "sha256": "d1bdb88d5abeff9949b2884a228f719c124796b212cfa958ef158fba1fd70323"
+  },
+  {
+   "id": "bar-chart",
+   "file": "icons/bar-chart.png",
+   "category": "social",
+   "name": "Bar chart",
+   "ru": "Столбики · аналитика диаграмма",
+   "width": 256,
+   "height": 256,
+   "sha256": "5a398989c0a5310e4c56bb9957d41f0f385db3c86a8e786782286d16de3d8610"
+  },
+  {
+   "id": "pie-chart",
+   "file": "icons/pie-chart.png",
+   "category": "social",
+   "name": "Pie chart",
+   "ru": "Круговая диаграмма · доли",
+   "width": 256,
+   "height": 256,
+   "sha256": "87f27b8d4a9d166800e76baa04609978be8ea9edcf2150c3ce19aebbf631b86a"
+  },
+  {
+   "id": "broadcast",
+   "file": "icons/broadcast.png",
+   "category": "social",
+   "name": "Broadcast",
+   "ru": "Эфир · трансляция сигнал",
+   "width": 354,
+   "height": 256,
+   "sha256": "33d9ce2e7243fa3bfcd9f1db630c6d67f5422cc49d4865ab5c2eb982b927cb74"
+  },
+  {
+   "id": "robot",
+   "file": "icons/robot.png",
+   "category": "social",
+   "name": "Robot",
+   "ru": "Робот · бот ассистент",
+   "width": 290,
+   "height": 256,
+   "sha256": "3e2aff3b12ce7568724911ffdcf2d7e123d12dd5c7950d019c323dbdeca4ce7d"
+  },
+  {
+   "id": "cursor",
+   "file": "icons/cursor.png",
+   "category": "social",
+   "name": "Cursor",
+   "ru": "Курсор · клик мышь",
+   "width": 234,
+   "height": 256,
+   "sha256": "2522d95a4f4fae540fa838ccec5c2797b8e04efba53b673237492cc2ff3154f2"
+  },
+  {
+   "id": "thumbs-up",
+   "file": "icons/thumbs-up.png",
+   "category": "social",
+   "name": "Thumbs up",
+   "ru": "Лайк · палец вверх",
+   "width": 265,
+   "height": 256,
+   "sha256": "bf6b813b2f672201589df85b62d2b001cd29fb18a2c25c716f794b61e590891b"
+  },
+  {
+   "id": "forward",
+   "file": "icons/forward.png",
+   "category": "social",
+   "name": "Forward",
+   "ru": "Переслать · ответить стрелка",
+   "width": 305,
+   "height": 256,
+   "sha256": "3f2633fffc91eeda497d4d245c62a99337ba207a0b8fcefb09f1a2242ccf74c2"
+  },
+  {
+   "id": "verified",
+   "file": "icons/verified.png",
+   "category": "social",
+   "name": "Verified",
+   "ru": "Галочка аккаунта · верификация знак",
+   "width": 256,
+   "height": 256,
+   "sha256": "a93e6561516eff1186fabea50bed605079d92abf9d9122cddc9e77ebd8d8f3c9"
+  },
+  {
+   "id": "crown",
+   "file": "icons/crown.png",
+   "category": "social",
+   "name": "Crown",
+   "ru": "Корона · лидер премиум",
+   "width": 305,
+   "height": 256,
+   "sha256": "18348254fb5ee1f06deb5e1013564bf97572448036c27bb09c0b6fa0bd9a2e1a"
+  },
+  {
+   "id": "diamond",
+   "file": "icons/diamond.png",
+   "category": "social",
+   "name": "Diamond",
+   "ru": "Бриллиант · ценность камень",
+   "width": 286,
+   "height": 256,
+   "sha256": "8d6c16757798beee6932a82730b27c62c4b445a3d4b991e970e066eae34996ef"
+  },
+  {
+   "id": "medal",
+   "file": "icons/medal.png",
+   "category": "social",
+   "name": "Medal",
+   "ru": "Медаль · награда место",
+   "width": 184,
+   "height": 256,
+   "sha256": "b9d61350a5be69bac499b987eb8019de6efa08b5ee8c4e71b65d18983ed6373b"
+  },
+  {
+   "id": "shield",
+   "file": "icons/shield.png",
+   "category": "social",
+   "name": "Shield",
+   "ru": "Щит · защита безопасность",
+   "width": 217,
+   "height": 256,
+   "sha256": "468e143a1b8d2689e7bb1b9d3bdefb975257a7dcf162ac2728025fd541426123"
+  },
+  {
+   "id": "coffee",
+   "file": "icons/coffee.png",
+   "category": "social",
+   "name": "Coffee",
+   "ru": "Кофе · чашка перерыв",
+   "width": 235,
+   "height": 256,
+   "sha256": "7b7d1ed8e78d7e5db65353a1a2792728f23105d8a558cb85999ceee91931b1cd"
+  },
+  {
+   "id": "sticky-note",
+   "file": "icons/sticky-note.png",
+   "category": "social",
+   "name": "Sticky note",
+   "ru": "Стикер-заметка · записка",
+   "width": 256,
+   "height": 256,
+   "sha256": "43f72dda2ad4ba1964d4e4366b9c425a037fe4475c2de7b4d5d313fc29c8fc2c"
+  },
+  {
+   "id": "quote",
+   "file": "icons/quote.png",
+   "category": "social",
+   "name": "Quote",
+   "ru": "Цитата · кавычки отзыв",
+   "width": 271,
+   "height": 256,
+   "sha256": "61dd7f9f36ee8ca838e706ff2d140a72589a22c0f5c7b5be6c1f4d5d303676a1"
+  },
+  {
+   "id": "party",
+   "file": "icons/party.png",
+   "category": "social",
+   "name": "Party",
+   "ru": "Хлопушка-праздник · салют успех",
+   "width": 261,
+   "height": 256,
+   "sha256": "e3ae6a4d93db0527850d3c3b97c734c759fea5f71ce7642ea8d45c7afbfd4738"
+  },
+  {
+   "id": "dice",
+   "file": "icons/dice.png",
+   "category": "social",
+   "name": "Dice",
+   "ru": "Кубик · случай удача игра",
+   "width": 256,
+   "height": 256,
+   "sha256": "0ae90549d2c24e66b2d9f6e05009523aa471382668f2f211909d919b9ed19812"
+  },
+  {
+   "id": "user-check",
+   "file": "icons/user-check.png",
+   "category": "social",
+   "name": "User check",
+   "ru": "Человек с галочкой · подтверждён участник принят контакт",
+   "width": 287,
+   "height": 256,
+   "sha256": "d628104583c0ecb3101e8c5aac5d90cfcb770c80d4fb1cbf646f6f97edf1fa5d"
+  },
+  {
+   "id": "bell-off",
+   "file": "icons/bell-off.png",
+   "category": "social",
+   "name": "Bell off",
+   "ru": "Без уведомлений · колокольчик тишина выключить не беспокоить",
+   "width": 236,
+   "height": 256,
+   "sha256": "37a809022f0d0e2ca29bbac1301288f4381951f14d1720456c9b11b3f2ac3417"
+  },
+  {
+   "id": "mail-open",
+   "file": "icons/mail-open.png",
+   "category": "social",
+   "name": "Mail open",
+   "ru": "Открытое письмо · почта прочитано конверт email",
+   "width": 284,
+   "height": 256,
+   "sha256": "b4eb07b91e81691b654c6850b6d6eaee261a301be862943d779e1faaa26d260c"
+  },
+  {
+   "id": "thumbs-down",
+   "file": "icons/thumbs-down.png",
+   "category": "social",
+   "name": "Thumbs down",
+   "ru": "Дизлайк · не нравится минус палец вниз плохо",
+   "width": 265,
+   "height": 256,
+   "sha256": "7543f879ee1ff859440a96804cc065f2d8774c6051f951137f6447a3f85c5b26"
+  },
+  {
+   "id": "bookmark-check",
+   "file": "icons/bookmark-check.png",
+   "category": "social",
+   "name": "Bookmark check",
+   "ru": "Закладка с галочкой · сохранено избранное отмечено закладка",
+   "width": 190,
+   "height": 256,
+   "sha256": "91f38f3be01b1d2cfab5e0c13d6c0102c0dbf22359131a97b941c25849e66bf5"
+  },
+  {
+   "id": "star-half",
+   "file": "icons/star-half.png",
+   "category": "social",
+   "name": "Star half",
+   "ru": "Полузвезда · рейтинг оценка половина отзыв",
+   "width": 268,
+   "height": 256,
+   "sha256": "adefdfabd1d748d6144851ee7dc56a6b57edd69140c7f40f30e3e35ad156ffe0"
+  },
+  {
+   "id": "award",
+   "file": "icons/award.png",
+   "category": "social",
+   "name": "Award",
+   "ru": "Награда · розетка приз лучший значок",
+   "width": 170,
+   "height": 256,
+   "sha256": "b492da8abb1315ca722e0962f5e737bb8608dbc1cd8596b2ce2a9a78e5fd7ab1"
+  },
+  {
+   "id": "money",
+   "file": "icons/money.png",
+   "category": "business",
+   "name": "Money",
+   "ru": "Монета · деньги доход",
+   "width": 256,
+   "height": 256,
+   "sha256": "0fbd0d80567cda73ae553f6c2bfa74444b0a027fe2a9de44680b41c654ec70c9"
+  },
+  {
+   "id": "wallet",
+   "file": "icons/wallet.png",
+   "category": "business",
+   "name": "Wallet",
+   "ru": "Кошелёк · оплата счёт",
+   "width": 271,
+   "height": 256,
+   "sha256": "fd35bd7a0bf81507ff2b826fe384db5b7b5681778620cc2b36343382be667ce0"
+  },
+  {
+   "id": "card",
+   "file": "icons/card.png",
+   "category": "business",
+   "name": "Card",
+   "ru": "Банковская карта · платёж",
+   "width": 345,
+   "height": 256,
+   "sha256": "03f353bb46a8c82d4c3379a260c95a6ff207f3ab2c52a489b6c96400deb88514"
+  },
+  {
+   "id": "cart",
+   "file": "icons/cart.png",
+   "category": "business",
+   "name": "Cart",
+   "ru": "Корзина покупок · магазин заказ",
+   "width": 256,
+   "height": 256,
+   "sha256": "4e5792f1d20a171e8be58d6bfa7807ea02ee8fa05443a286eb53e3818ca2073d"
+  },
+  {
+   "id": "bag",
+   "file": "icons/bag.png",
+   "category": "business",
+   "name": "Bag",
+   "ru": "Сумка · покупки товар",
+   "width": 216,
+   "height": 256,
+   "sha256": "2befcef75ecd325e40712662d1adbd53b2ed656d37adbcf49d609f93d6b47a13"
+  },
+  {
+   "id": "tag",
+   "file": "icons/tag.png",
+   "category": "business",
+   "name": "Tag",
+   "ru": "Ценник · метка цена",
+   "width": 256,
+   "height": 256,
+   "sha256": "a586029bb3857da3d74e69f488cdc708081802f6f09d0d84343913a2ef7e95e7"
+  },
+  {
+   "id": "receipt",
+   "file": "icons/receipt.png",
+   "category": "business",
+   "name": "Receipt",
+   "ru": "Чек · счёт квитанция",
+   "width": 200,
+   "height": 256,
+   "sha256": "ab9d41771dbcbc27cdde416873a6e0e7167f44be427440a703b645e36b2d1c4e"
+  },
+  {
+   "id": "briefcase",
+   "file": "icons/briefcase.png",
+   "category": "business",
+   "name": "Briefcase",
+   "ru": "Портфель · работа бизнес",
+   "width": 294,
+   "height": 256,
+   "sha256": "4872b96c9b956a3e9ce42aa6b89315486a1b53d3cd5297267d9d6e92357147f1"
+  },
+  {
+   "id": "bulb",
+   "file": "icons/bulb.png",
+   "category": "business",
+   "name": "Bulb",
+   "ru": "Лампочка · идея мысль",
+   "width": 178,
+   "height": 256,
+   "sha256": "6b27a3c31310a8dc9b924068cefc4cb813f504fe1747c0139325d01b4c02f246"
+  },
+  {
+   "id": "book",
+   "file": "icons/book.png",
+   "category": "business",
+   "name": "Book",
+   "ru": "Книга · гайд курс",
+   "width": 256,
+   "height": 256,
+   "sha256": "70f5f7b162fd95a54ea7c884d682e3bb286c4e7f0bbdcf990d87fbc66cddc6a7"
+  },
+  {
+   "id": "file",
+   "file": "icons/file.png",
+   "category": "business",
+   "name": "File",
+   "ru": "Файл · документ",
+   "width": 197,
+   "height": 256,
+   "sha256": "1919ebc6708546cd06a37f6b685472c9fddf444d06c70dedc7551508c7d844f6"
+  },
+  {
+   "id": "folder",
+   "file": "icons/folder.png",
+   "category": "business",
+   "name": "Folder",
+   "ru": "Папка · каталог",
+   "width": 311,
+   "height": 256,
+   "sha256": "9636680a34be59f318d4f3742cbf18769a18ce92e7982806193b74140c4abd0a"
+  },
+  {
+   "id": "checklist",
+   "file": "icons/checklist.png",
+   "category": "business",
+   "name": "Checklist",
+   "ru": "Чек-лист · задачи список",
+   "width": 222,
+   "height": 256,
+   "sha256": "acec88432d83e905ec1d482589ae05a110cfd2fb7d73be073e98975f5577e2c9"
+  },
+  {
+   "id": "library",
+   "file": "icons/library.png",
+   "category": "business",
+   "name": "Library",
+   "ru": "Библиотека · полка книги коллекция",
+   "width": 287,
+   "height": 256,
+   "sha256": "cdb94f53f407ece76d60a40fd10438d351eba0a480ad2bb8079f6e655a700c81"
+  },
+  {
+   "id": "reference",
+   "file": "icons/reference.png",
+   "category": "business",
+   "name": "Reference",
+   "ru": "Референс · образец пример",
+   "width": 272,
+   "height": 256,
+   "sha256": "cdc1302480c9c766c922008ecbb38a593b5273d8c2ef57e17383869d36a8722f"
+  },
+  {
+   "id": "beats",
+   "file": "icons/beats.png",
+   "category": "business",
+   "name": "Beats",
+   "ru": "Биты · ритм раскадровка",
+   "width": 212,
+   "height": 256,
+   "sha256": "a2f60eb7ec3c9ae99f49d92043ec509061727fa9cb5de3ae488d9d3396c9f9d8"
+  },
+  {
+   "id": "calculator",
+   "file": "icons/calculator.png",
+   "category": "business",
+   "name": "Calculator",
+   "ru": "Калькулятор · считать цифры",
+   "width": 205,
+   "height": 256,
+   "sha256": "c802bf040a892cb862b4c5e6c91b34d567c8b9585de93234c00d4ed11cab99e2"
+  },
+  {
+   "id": "percent",
+   "file": "icons/percent.png",
+   "category": "business",
+   "name": "Percent",
+   "ru": "Процент · скидка доля",
+   "width": 256,
+   "height": 256,
+   "sha256": "90bb15d63820c477d37b58c4ed72b75e4627bba60e98eb151bd6cefe32925e7d"
+  },
+  {
+   "id": "pen",
+   "file": "icons/pen.png",
+   "category": "business",
+   "name": "Pen",
+   "ru": "Ручка · подпись писать",
+   "width": 166,
+   "height": 256,
+   "sha256": "f96e13a2082af80bd818051533e241ab9f5261b3dac3cc87c0c2dee236ceae4c"
+  },
+  {
+   "id": "dollar",
+   "file": "icons/dollar.png",
+   "category": "business",
+   "name": "Dollar",
+   "ru": "Доллар · валюта деньги",
+   "width": 139,
+   "height": 256,
+   "sha256": "aa88013e6cd07c0f795e95a21be650e8512859b2afa1b71873fec4fea40093a4"
+  },
+  {
+   "id": "store",
+   "file": "icons/store.png",
+   "category": "business",
+   "name": "Store",
+   "ru": "Магазин · лавка продажи",
+   "width": 270,
+   "height": 256,
+   "sha256": "4f49a0e6e2c63f2374c9b525e1f77bbdd77f0dd10010ab7f581754bbf0f1564c"
+  },
+  {
+   "id": "truck",
+   "file": "icons/truck.png",
+   "category": "business",
+   "name": "Truck",
+   "ru": "Доставка · грузовик",
+   "width": 327,
+   "height": 256,
+   "sha256": "8cd61fe8be36f95791f50e0a2e4225a9eb177722904a271a85047573b4acaafe"
+  },
+  {
+   "id": "package",
+   "file": "icons/package.png",
+   "category": "business",
+   "name": "Package",
+   "ru": "Посылка · коробка товар",
+   "width": 244,
+   "height": 256,
+   "sha256": "aeda25da217218cd43eb83cc16bf53b8497c958c139777997d91d81efd8c8c8b"
+  },
+  {
+   "id": "graduation",
+   "file": "icons/graduation.png",
+   "category": "business",
+   "name": "Graduation",
+   "ru": "Выпускник · курс обучение",
+   "width": 337,
+   "height": 256,
+   "sha256": "485d421b727077c16acb8a52f62c8dd6518ae71beef163272026f2d99d8a6207"
+  },
+  {
+   "id": "headset",
+   "file": "icons/headset.png",
+   "category": "business",
+   "name": "Headset",
+   "ru": "Поддержка · наушники связь",
+   "width": 253,
+   "height": 256,
+   "sha256": "e34ce9c196d09f69669a5243ca336eaba460c8b860fb031bebcb9690d4a9df9c"
+  },
+  {
+   "id": "id-card",
+   "file": "icons/id-card.png",
+   "category": "business",
+   "name": "Id card",
+   "ru": "Пропуск · удостоверение анкета",
+   "width": 320,
+   "height": 256,
+   "sha256": "b033bdc78bdcefa0b9ff8f7a238d2140ff3bdeffc57c436003a1cea0e74aa3ad"
+  },
+  {
+   "id": "dashboard",
+   "file": "icons/dashboard.png",
+   "category": "business",
+   "name": "Dashboard",
+   "ru": "Дашборд · панель виджеты",
+   "width": 256,
+   "height": 256,
+   "sha256": "0aaced824c4eaedae318414def4066b05b7aafcab056b6130bf2e7f6171c0f19"
+  },
+  {
+   "id": "ticket",
+   "file": "icons/ticket.png",
+   "category": "business",
+   "name": "Ticket",
+   "ru": "Билет · вход мероприятие купон событие",
+   "width": 351,
+   "height": 256,
+   "sha256": "8b9b9427d78af9fe20b90df06d31349d4bccf69bed525665bbf0d179aa261e58"
+  },
+  {
+   "id": "handshake",
+   "file": "icons/handshake.png",
+   "category": "business",
+   "name": "Handshake",
+   "ru": "Рукопожатие · сделка договор партнёр согласие",
+   "width": 433,
+   "height": 256,
+   "sha256": "53cbc12fe2ff7fd0cfea40bf80fe48f628ec76c8e889c96d7bc389f5f17f3cad"
+  },
+  {
+   "id": "invoice",
+   "file": "icons/invoice.png",
+   "category": "business",
+   "name": "Invoice",
+   "ru": "Счёт · оплата сумма документ к оплате",
+   "width": 205,
+   "height": 256,
+   "sha256": "532759bd6c121f73366e3be0493ced5ed91296f0ff94a7b9bfc8ac6a43de3ae5"
+  },
+  {
+   "id": "subscription",
+   "file": "icons/subscription.png",
+   "category": "business",
+   "name": "Subscription",
+   "ru": "Подписка · регулярный платёж карта ежемесячно автоплатёж",
+   "width": 241,
+   "height": 256,
+   "sha256": "e2794e8de140db557dd062447805ed33bb1894df00ad9d874f5d89ea10efeb9b"
+  },
+  {
+   "id": "calendar-check",
+   "file": "icons/calendar-check.png",
+   "category": "business",
+   "name": "Calendar check",
+   "ru": "Календарь с галочкой · запланировано дата встреча готово",
+   "width": 247,
+   "height": 256,
+   "sha256": "468db43ddc62582c992a6c7cc37fae2514926bf50becd4b8d7cc1467b624b618"
+  },
+  {
+   "id": "leaf",
+   "file": "icons/leaf.png",
+   "category": "symbols",
+   "name": "Leaf",
+   "ru": "Лист · природа эко",
+   "width": 256,
+   "height": 256,
+   "sha256": "3c10777293cee81d581ad89505adb1e727b11ea799014525bf3f747457a9dd34"
+  },
+  {
+   "id": "mountain",
+   "file": "icons/mountain.png",
+   "category": "symbols",
+   "name": "Mountain",
+   "ru": "Горы · вершина цель",
+   "width": 329,
+   "height": 256,
+   "sha256": "930e1b8973c12bef0fed77420a77377dca465640325796d77073f24a7277283e"
+  },
+  {
+   "id": "wave",
+   "file": "icons/wave.png",
+   "category": "symbols",
+   "name": "Wave",
+   "ru": "Волны · вода море",
+   "width": 472,
+   "height": 256,
+   "sha256": "ed217ca8ebdc427b235481374f23258065ed5df49e17f136abea5e285648e42e"
+  },
+  {
+   "id": "snowflake",
+   "file": "icons/snowflake.png",
+   "category": "symbols",
+   "name": "Snowflake",
+   "ru": "Снежинка · холод зима",
+   "width": 224,
+   "height": 256,
+   "sha256": "c8dea0b1bc33bb5e487fb284dfe656d29feef6c6029e2fa372c55feb23fdea67"
+  },
+  {
+   "id": "umbrella",
+   "file": "icons/umbrella.png",
+   "category": "symbols",
+   "name": "Umbrella",
+   "ru": "Зонт · защита дождь",
+   "width": 262,
+   "height": 256,
+   "sha256": "b980a6377f201eeb71da1f6bcd81b9633bad0b684c8aa11da2622b94fef06a19"
+  },
+  {
+   "id": "compass",
+   "file": "icons/compass.png",
+   "category": "symbols",
+   "name": "Compass",
+   "ru": "Компас · направление навигация",
+   "width": 256,
+   "height": 256,
+   "sha256": "c0ac192f9d8eb9eee951306121dfa32d4b43948e7c26966f9ae43b27377fefb1"
+  },
+  {
+   "id": "map",
+   "file": "icons/map.png",
+   "category": "symbols",
+   "name": "Map",
+   "ru": "Карта · маршрут план местности",
+   "width": 288,
+   "height": 256,
+   "sha256": "54024daaccafed242237afcc0c050abbb85946bd8221a16a64f83433afcabbe5"
+  },
+  {
+   "id": "anchor",
+   "file": "icons/anchor.png",
+   "category": "symbols",
+   "name": "Anchor",
+   "ru": "Якорь · опора надёжность",
+   "width": 205,
+   "height": 256,
+   "sha256": "b4b5e64dec65d397a47ed3ff024853d6e5bf646b0660ae4cec75be21dbade581"
+  },
+  {
+   "id": "magnet",
+   "file": "icons/magnet.png",
+   "category": "symbols",
+   "name": "Magnet",
+   "ru": "Магнит · привлечь лиды",
+   "width": 258,
+   "height": 256,
+   "sha256": "8791e6f105b7e3f91ed690f346b95863306b0ac503366b76a5d4bf9d59d476bf"
+  },
+  {
+   "id": "home-heart",
+   "file": "icons/home-heart.png",
+   "category": "symbols",
+   "name": "Home heart",
+   "ru": "Дом с сердцем · уют семья",
+   "width": 248,
+   "height": 256,
+   "sha256": "4cd21a1f925883dc92d3aa49a3f2abe1c7773f5ff4aead1a9c7a3f45629e4158"
+  },
+  {
+   "id": "sparkle",
+   "file": "icons/sparkle.png",
+   "category": "symbols",
+   "name": "Sparkle",
+   "ru": "Звёздочка · искра блеск",
+   "width": 256,
+   "height": 256,
+   "sha256": "d489df98aecd593785207c58b9a97d5736c20072f3172eee66ffe01c2bb88680"
+  },
+  {
+   "id": "cat",
+   "file": "icons/cat.png",
+   "category": "symbols",
+   "name": "Cat",
+   "ru": "Кот · питомец мордочка",
+   "width": 264,
+   "height": 256,
+   "sha256": "6feec34a7e62ea911313c3fcd696a50ce01bb494261f9545219c40c64c84d914"
+  },
+  {
+   "id": "ghost",
+   "file": "icons/ghost.png",
+   "category": "symbols",
+   "name": "Ghost",
+   "ru": "Привидение · хэллоуин призрак",
+   "width": 229,
+   "height": 256,
+   "sha256": "ff00b390cd4560220c7baaa1462d5e8f755594e99ba5570c7aace0eb7aef18ff"
+  },
+  {
+   "id": "balloon",
+   "file": "icons/balloon.png",
+   "category": "symbols",
+   "name": "Balloon",
+   "ru": "Шарик · праздник воздушный",
+   "width": 178,
+   "height": 256,
+   "sha256": "3c280f619c966a88897589a43090e0381c6f41b2c8ac390fad069f48e8e0a219"
+  }
+ ]
+}
